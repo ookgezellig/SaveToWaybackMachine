@@ -13,6 +13,6 @@ This list contains html, pdf and docx files
 
 2) We cleaned this raw list, removed non-relevant URLs of non-content pages (e.g. https://www.leesplein.nl/aanvragenboek.php?isbn=9780374302344&amp;title=The Other F-Word&amp;aulast=Friend&amp;aufirst=Natasha) 
 
-3) We then ran SaveLeespleinToWaybackMachine.py to submit the 1821 URLs in this cleaned list to The Wayback Machine.
+3) We then ran 'SaveLeespleinToWaybackMachine.py' to submit the 1821 URLs in this cleaned list to The Wayback Machine.
 
 4) We copy-pasted the Python terminal output to the file 'Output-Leesplein_GearchiveerdeURLs_07062018.csv.txt' (the four '^^^^' in this fil are purely separators). Finally, we derived the Excel-file (.xlsx). 
