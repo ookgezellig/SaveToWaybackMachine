@@ -15,4 +15,4 @@ This list contains html, pdf and docx files
 
 3) We then ran SaveLeespleinToWaybackMachine.py to submit the 1821 URLs in this cleaned list to The Wayback Machine.
 
-4) We copy-pasted the Python terminal output to the file 'Output-Leesplein_GearchiveerdeURLs_07062018.csv.txt' and derived the Excel-file (.xlsx) from it. The four '^^^^' in the former file are separators. 
+4) We copy-pasted the Python terminal output to the file 'Output-Leesplein_GearchiveerdeURLs_07062018.csv.txt' (the four '^^^^' in this fil are purely separators). Finally, we derived the Excel-file (.xlsx). 
