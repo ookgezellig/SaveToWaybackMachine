@@ -4,15 +4,18 @@ The site www.leesplein.nl will be discontinued in the summer of 2018. (ref https
 
 To preserve the content of the site (e.g. for sourcing Wikipedia articles) it seemed a good idea to submit a copy to The Wayback Machine (web.archive.org).
 
-We managed to save 1821 URLs of www.leesplein.nl in the Wayback Machine. 
+We managed to save 23.844 URLs of www.leesplein.nl in the Wayback Machine. 
 
 Steps taken: 
 
-1) We first used https://xmlsitemapgenerator.org/sitemap-generator.aspx to create a raw sitemap for www.leesplein.nl, as a flat list of 2069 URLs. This raw list is available in various formats in the folder 'sitemapLeesplein_07062018'
-This list contains html, pdf and docx files
+1) We first ceated an [input list of 25.514 URLs](Input-Leesplein_TeArchiverenURLs.txt). We did this by combining data from  
 
-2) We cleaned this raw list, removed URLs of non-content pages (e.g. https://www.leesplein.nl/aanvragenboek.php?isbn=9780374302344&amp;title=The Other F-Word&amp;aulast=Friend&amp;aufirst=Natasha). We were left with 1821 relevant URLs 
+* https://xmlsitemapgenerator.org/sitemap-generator.aspx: creating a sitemap for www.leesplein.nl, as a flat list of 2069 URLs. This list is available as a zip-file in the folder 'sitemapLeesplein_07062018'. It contains html, pdf and docx files.
+* Google Anaytics: we made a list of all Leesplein-pages that were visited 20+ times over the last 5 years. This gave a list of pm. 24K URLs 
+* We combined both lists, did some de-duplication and further cleaning, ending up with the list of 25.514 URLs
 
-3) We then ran 'SaveLeespleinToWaybackMachine.py' to submit these 1821 URLs to The Wayback Machine.
+3) We then ran [SaveLeespleinToWaybackMachine.py](SaveLeespleinToWaybackMachine.py) to submit these 25.514 URLs to The Wayback Machine. This was not a 100% proces, in the end, 23.844 URLs were captured (93,5%). 
 
-4) We copy-pasted the Python terminal output to the file 'Output-Leesplein_GearchiveerdeURLs_07062018.csv.txt' (the four '^^^^' in this file are purely separators). Finally, we derived the Excel-file (.xlsx). 
+4) The output of the script was captured in an 
+* [Excel file](Output-Leesplein_GearchiveerdeURLs_14062018.xlsx)
+* [Text file](Output-Leesplein_GearchiveerdeURLs_14062018.txt) (using '^^' as a separator)
