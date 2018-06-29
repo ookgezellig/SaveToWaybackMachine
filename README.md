@@ -1,6 +1,6 @@
 # Saving Leesplein.nl to Wayback Machine
 
-The site www.leesplein.nl will be discontinued in the summer of 2018. (ref https://web.archive.org/web/20180608144204/https://www.bibliotheekblad.nl/nieuws/nieuwsarchief/bericht/1000008395/leesplein_wordt_in_de_zomer_be_c3_abindigd)
+The site www.leesplein.nl will be discontinued in the summer of 2018. (see [this message](https://web.archive.org/web/20180608144204/https://www.bibliotheekblad.nl/nieuws/nieuwsarchief/bericht/1000008395/leesplein_wordt_in_de_zomer_be_c3_abindigd))
 
 To preserve the content of the site (e.g. for sourcing Wikipedia articles) it seemed a good idea to submit a copy to The Wayback Machine (web.archive.org).
 
