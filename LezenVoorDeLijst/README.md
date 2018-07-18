@@ -1,8 +1,8 @@
 # Saving Lezenvoordelijst.nl to Wayback Machine
 
-The site www.lezenvoordelijst.nl will be discontinued in the summer of 2018. 
+The site www.lezenvoordelijst.nl will change from 1st August 2018 onwards (see [this message](https://web.archive.org/web/20180718102853/https://www.lezenvoordelijst.nl/blog/2018/lezen-voor-de-lijst-verandert-per-1-augustus/)). 
 
-To preserve the content of the site (e.g. for sourcing Wikipedia articles) it seemed a good idea to submit a copy to The Wayback Machine (web.archive.org).
+To preserve the current content of the site (e.g. for sourcing Wikipedia articles) it seemed a good idea to submit a copy to The Wayback Machine (web.archive.org).
 
 We managed to save 12.192 URLs of Lezenvoordelijst.nl in the Wayback Machine. 
 
