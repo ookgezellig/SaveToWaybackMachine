@@ -15,7 +15,7 @@ Steps taken:
 
   We combined both lists, did some de-duplication and further cleaning, ending up with an input of 25.514 URLs
 
-2) We then ran [SaveLeespleinToWaybackMachine.py](SaveLeespleinToWaybackMachine.py) to submit these 25.514 URLs to The Wayback Machine. This was not a 100% proces, in the end 23.844 URLs were successfully captured (93,5%). 
+2) We then ran [SaveLeespleinToWaybackMachine.py](SaveLeespleinToWaybackMachine.py) to submit these 25.514 URLs to The Wayback Machine. This was not a 100% process, in the end 23.844 URLs were successfully captured (93,5%). 
 
 3) The output of the script was dumped in an 
 * [Excel file](Output-Leesplein_GearchiveerdeURLs_14062018.xlsx)
