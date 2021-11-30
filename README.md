@@ -22,8 +22,8 @@ It is also noted that the updated script seems to work much slower than 2 years 
 
 So if you plan to archive 10.000s URLs (such as for kb.nl, later in 2021), this will probably take a very long time, and you will probably have to deal with many timeouts, connection failures and errors.
 
-## To be archived sites
-* kb.nl: planned for December 2021
+## Archiving in progress
+* kb.nl: for Nov/December 2021
 
 ## Archived sites 
 * [Literatuurplein.nl](https://github.com/ookgezellig/SaveToWaybackMachine/tree/master/Literatuurplein)
