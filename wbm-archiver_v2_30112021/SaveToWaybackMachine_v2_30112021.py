@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-''''
+'''
 This improved Wayback Machine Internet Archive archiving script can do two things:
 1) It can save a page/document (via an URL) to the Wayback Machine (WBM) of the Internet Archive (IA)
 2) It can retrieve the lastest/newest archived version of a page from the WBM
