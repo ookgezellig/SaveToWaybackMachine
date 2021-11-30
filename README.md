@@ -1,7 +1,7 @@
 # Saving KB-managed websites to the Wayback Machine
 
 ## Improved wbm-archiver script v2 - 30-11-2021
-Strongly improved script [SaveToWaybackMachine_v2_30112021.py]() using https://pypi.org/project/waybackpy/ 
+Strongly improved script [SaveToWaybackMachine_v2_30112021.py](wbm-archiver_v2_30112021/SaveToWaybackMachine_v2_30112021.py) using https://pypi.org/project/waybackpy/ 
 
 This improved Wayback Machine Internet Archive archiving script can do two things:
 1) It can retrieve the lastest/newest archived version of a page from the WBM. This is handy to check if a recent archive copy was made, omitting the need for a fresh copy.
