@@ -12,9 +12,10 @@ The script uses https://pypi.org/project/waybackpy/ + https://github.com/akamhy/
 
 ### Notes:
 *30/11/2021*
-* When archiving/saving pages: script seem to run rather stable due to improved error handling
-* When archiving/saving pages: script runs rather slow  (pm 3 minutes for 10 urls), this seems to be due to the
+* When archiving/saving pages (mode 1) : script seem to run rather stable due to improved error handling
+* When archiving/saving pages (mode 1): script runs rather slow  (pm 3 minutes for 10 urls), this seems to be due to the
   processing speed of the WBM.
+* ....
 
 ## wbm-archiver script - 15-7-2021 - OUTDATED
 On 15-7-2021 I have checked if the [wbm-archiver script from 2 years ago](Literatuurplein/scripts/wbm-archiver/SaveLiteratuurpleinToWaybackMachine.py) was still working. It turned out this was not the case, so I did a small [update of the script](wbm-archiver_15072021/SaveToWaybackMachine.py) to make it work again. However, this script is still not 100% stable or trustworthy and ideally should be checked by a proper developer with knowledge about the WBM and the [Memento protocol](http://mementoweb.org/guide/rfc/) that is used in the WBM. 
