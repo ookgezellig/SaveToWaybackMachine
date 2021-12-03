@@ -3,11 +3,12 @@
 ## Improved wbm-archiver script v2 - 30-11-2021
 Strongly improved script [SaveToWaybackMachine_v2_30112021.py](wbm-archiver_v2_30112021/SaveToWaybackMachine_v2_30112021.py) using https://pypi.org/project/waybackpy/ 
 
-This improved Wayback Machine Internet Archive archiving script can do two things:
-1) It can retrieve the lastest/newest archived version of a page from the WBM. This is handy to check if a recent archive copy was made, omitting the need for a fresh copy.
-2) It can save a page/document (via an URL) to the WBM 
+This improved Wayback Machine Internet Archive archiving script has three modes:
+1) It can save a page/document to the Wayback Machine (WBM) of the Internet Archive (IA)
+2) It can retrieve the latest/newest archived version of a page from the WBM
+3) It can retrieve the oldest/first archived version of a page from the WBM
 
-The scripts uses https://pypi.org/project/waybackpy/ + https://github.com/akamhy/waybackpy/wiki/Python-package-docs
+The script uses https://pypi.org/project/waybackpy/ + https://github.com/akamhy/waybackpy/wiki/Python-package-docs
 
 ### Notes:
 *30/11/2021*
