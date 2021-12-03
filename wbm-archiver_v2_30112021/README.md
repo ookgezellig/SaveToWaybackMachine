@@ -1,4 +1,4 @@
-# Improved wbm-archiver script v2 - 30-11-2021
+# wbm-archiver script - 30-11-2021 - Improved v2
 Strongly improved script [SaveToWaybackMachine_v2_30112021.py](wbm-archiver_v2_30112021/SaveToWaybackMachine_v2_30112021.py) using https://pypi.org/project/waybackpy/ 
 
 This improved Wayback Machine Internet Archive archiving script has three modes:
