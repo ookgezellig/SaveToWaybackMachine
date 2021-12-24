@@ -1,5 +1,11 @@
 # Saving KB-managed websites to the Wayback Machine
 
+## Using Google sheets to archive pages
+* https://archive.org/services/wayback-gsheets/
+* https://twitter.com/LucasWerkmeistr/status/1469742572046368776
+
+Not yet used by KB, but interesting to keep any eye on for future archiving jobs
+
 ## wbm-archiver script - 30-11-2021 - Improved v2 
 See the [wbm-archiver_v2_30112021](wbm-archiver_v2_30112021) folder. This script was used to archive [kb.nl](kb.nl) in december 2021
 
