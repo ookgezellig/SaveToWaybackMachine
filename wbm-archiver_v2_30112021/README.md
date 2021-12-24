@@ -8,7 +8,9 @@ This improved Wayback Machine Internet Archive archiving script has three modes:
 
 The script uses https://pypi.org/project/waybackpy/ + https://github.com/akamhy/waybackpy/wiki/Python-package-docs
 
-It was used to archive [kb.nl](../kb.nl) in december 2021
+It was used to 
+* archive the [old kb.nl](../kb.nl/24122021) website in december 2021
+* archive the [new kb.nl](../kb.nl/xxxx2022) website in Q1 2022
 
 ## Notes:
 *30/11/2021*
