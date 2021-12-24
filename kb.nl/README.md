@@ -1,5 +1,8 @@
+# Title...
 ## UPDATEN!!!
-Paar screenshotjes van kb.nl pagna;s invoegen
+* Paar screenshotjes van kb.nl pagna;s invoegen
+* archivering in dec 2021 beschrincen
+* ook nog uit te voeren archivering v/d niewue kb.nl in Q1 2022 beschrijven
 
 The file [allekbnlurls_voorarchivering_14122021.xlsx](allekbnlurls_voorarchivering_14122021.xlsx) contains some 5.700 URLs of pages in the [KB website](https://www.kb.nl) (kb.nl) as retrieved from the site (on 30-11-2021). 
 
