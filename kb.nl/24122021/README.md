@@ -1,3 +1,5 @@
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Koninklijke_Bibliotheek_wordmark.svg/150px-Logo_Koninklijke_Bibliotheek_wordmark.svg.png" width="150" align="right"/>
+
 # WBM archive run of kb.nl - december 2021
 *Latest update: 28-12-2021*
 
