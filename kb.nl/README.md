@@ -12,10 +12,10 @@ As kb.nl will be replaced with a new website in Q1 2022, the pages of the old we
 <br clear="all"/>
 *Screenshots of kb.nl on 24 december 2021*
 
-* The file *[urls_kbnl_archivedwbm_24122021.csv](24122021/urls_kbnl_archivedwbm_24122021.csv)* contains 5.720 URLs/pages (as retrieved from the site on 30-11-2021) and their WBM archived versions, as captured during december 2021.  
+* The file *[urls_kbnl_archivedwbm_24122021.csv](24122021/urls_kbnl_archivedwbm_24122021.csv)* contains 5.720 URLs/pages (as retrieved from the site on 30-11-2021) and their WBM archived versions. 
 * The file *[urls_kbnl_archivedwbm_24122021.xlsx](24122021/urls_kbnl_archivedwbm_24122021.xlsx)* is the Excel equivalent.
 
-The archiving was done using the *[wbm-archiver_v2_30112021](../wbm-archiver_v2_30112021)* Python script.
+The archiving was done using the *[wbm-archiver_v2_30112021](../wbm-archiver_v2_30112021)* Python script during december 2021.
 
 ## WBM archive run Q1 2022
 As soon as the new kb.nl website will be live, expected for Q1 2022, the KB will actively archive it into the WBM. 
