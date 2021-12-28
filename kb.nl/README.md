@@ -13,3 +13,7 @@ The Excel has 2 sheets:
 2) *kb.nl_nogtearchiveren* : 1.349 pages that have not been recently archived, or have not been archived ever at all. In December 2021 the KB will archive these pages actively using following runs of that script.
 In that folder, the [url-inputlist.txt](../wbm-archiver_v2_30112021/url-inputlist.txt) contains the exact same URLs as are in the *kb.nl_nogtearchiveren* sheet in the Excel.    
 
+It
+
+    was used to archive the old kb.nl website in december 2021
+    will be used to archive the new kb.nl website in Q1 2022
