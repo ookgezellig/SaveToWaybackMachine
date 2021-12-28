@@ -9,7 +9,7 @@ As kb.nl, the [website](https://www.kb.nl) of the KB, national library of the Ne
 <br clear="all"/>
 *Screenshots of kb.nl on 24 december 2021*
 
-* The file *[urls_kbnl_archivedwbm_24122021.csv](urls_kbnl_archivedwbm_24122021.csv)* contains 5.720 URLs/pages (as retrieved from the site on 30-11-2021) and their WBM archived versions, as captured during december 2021.  
+* The file *[urls_kbnl_archivedwbm_24122021.csv](urls_kbnl_archivedwbm_24122021.csv)* contains 5.720 URLs/pages (as retrieved from the site on 30-11-2021) and their WBM archived versions.
 * The file *[urls_kbnl_archivedwbm_24122021.xlsx](urls_kbnl_archivedwbm_24122021.xlsx)* is the Excel equivalent.
 
-The archiving was done using the *[wbm-archiver_v2_30112021](../../wbm-archiver_v2_30112021)* Python script.
+The archiving was done using the *[wbm-archiver_v2_30112021](../../wbm-archiver_v2_30112021)* Python script during december 2021
