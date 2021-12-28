@@ -1,7 +1,7 @@
 # WBM archive run of kb.nl - december 2021
 *Latest update: 28-12-2021*
 
-As kb.nl, the [website](https://www.kb.nl) of the KB, national library of the Netherlands, will be replaced with a new website in Q1 2022, the pages of the old website were in danger of disappearing from the web. Therefore, during december 2021, the KB has archived the website into the WBM. 
+As kb.nl, the [website](https://www.kb.nl) of the KB, national library of the Netherlands, will be replaced with a new website in Q1 2022, the pages of the old website were in danger of disappearing from the web. Therefore, during december 2021, the KB has archived the website into the Wayback Machine. 
 
 <kbd><image src="images/kbnl_homepage_28122021.png" width="220"/></kbd><kbd><image src="images/kbnl_newspage_28122021.png" width="220"/></kbd><kbd><image src="images/kbnl_themepage_28122021.png" width="220"/></kbd><kbd><image src="images/kbnl_organisationpage_28122021.png" width="220"/></kbd>
 <br clear="all"/>
