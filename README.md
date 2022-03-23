@@ -21,8 +21,8 @@ So if you plan to archive 10.000s URLs (such as for kb.nl, later in 2021), this 
 
 ## Archived sites 
 * KB website [kb.nl](kb.nl) 
+  * The [new kb.nl website](https://www.kb.nl) was launched on 17th March 2022. On the same day, a new, dedicated [KB special collections website](https://collecties.kb.nl) went live as well. Both sites [have been archived](kb.nl/23032022) on 23-24 March 2022.
   * [December 2021](kb.nl/24122021) (old site)
-  * Q1 2022 (new site)
 * [Literatuurplein.nl](Literatuurplein) (december 2019)
 * [Leesplein.nl](Leesplein) (summer 2018)
 * [Lezenvoordelijst.nl](LezenVoorDeLijst) (summer 2018)
