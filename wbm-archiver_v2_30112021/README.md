@@ -10,7 +10,7 @@ It uses https://pypi.org/project/waybackpy/, see https://github.com/akamhy/wayba
 
 It was used to archive
 * the [old kb.nl](../kb.nl/24122021) website in December 2021
-* the [new kb.nl](../kb.nl/23032022) in March 2022. This archive run includes the URLs/pages of both the new kb.nl and the new [KB special collections website](https://collecties.kb.nl).
+* the [new kb.nl](../kb.nl/23032022) in March 2022. This archive run includes the URLs/pages of both the new kb.nl and the new [KB special collections website](https://collecties.kb.nl) that were launched on 17th March 2022.
 
 ## Notes:
 *30/11/2021*
