@@ -15,9 +15,9 @@ The [new kb.nl website](https://www.kb.nl) was launched on 20th March 2022.
 On the same date a new, dicated [KB special collections website](https://collecties.kb.nl) went live as well. 
 
 <kbd><image src="images/collectieskbnl_homepage_23032022.png" width="220"/></kbd>
-<kbd><image src="images/collectieskbnl_newspage_23032022.png" width="220"/></kbd>
-<kbd><image src="images/collectieskbnl_themepage_23032022.png" width="220"/></kbd>
-<kbd><image src="images/collectieskbnl_organisationpage_23032022.png" width="220"/></kbd>
+<kbd><image src="images/collectieskbnl_koopmanpage_23032022.png" width="220"/></kbd>
+<kbd><image src="images/" width="220"/collectieskbnl_nlpoeziepage_23032022.png></kbd>
+<kbd><image src="images/" width="220"/collectieskbnl_dichterpage_23032022.png></kbd>
 <br clear="all"/>
 *Screenshots of the new collecties.kb.nl on 23 March 2022*
 
