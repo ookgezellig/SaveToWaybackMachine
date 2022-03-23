@@ -15,7 +15,8 @@ On the same date a new, dicated [KB special collections website](https://collect
 <br clear="all"/>
 *Screenshots of the new collecties.kb.nl on 23 March 2022*
 
-Both sites were actively archived into the WBM on 23-24 March 2022, using the same scripts and approach as in the [December 2021 run](../24122021/). 
+Both sites were actively archived into the WBM on 23-24 March 2022, using the [same script](../../wbm-archiver_v2_30112021) and approach as in the [December 2021 run](../24122021/). 
 
 * The file *[urls_kbnl_archivedwbm_23032022.csv](urls_kbnl_archivedwbm_23032022.csv)* contains xxx URLs/pages (as retrieved from the site on 23+24 March 2022) and their WBM archived versions.
 * The file *[urls_kbnl_archivedwbm_23032022.xlsx](urls_kbnl_archivedwbm_23032022.xlsx)* is the Excel equivalent.
+* These files include the archived URLs/pages of both the new kb.nl and the [KB special collections website](https://collecties.kb.nl).
