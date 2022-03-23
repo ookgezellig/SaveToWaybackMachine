@@ -1,6 +1,6 @@
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Koninklijke_Bibliotheek_wordmark.svg/150px-Logo_Koninklijke_Bibliotheek_wordmark.svg.png" width="150" align="right"/>
 
-# WBM archive run of kb.nl - March 2022
+# WBM archive run of kb.nl and collecties.kb.nl - March 2022
 *Latest update: 23-03-2022*
 
 The [new kb.nl website](https://www.kb.nl) was launched on 17th March 2022. 
