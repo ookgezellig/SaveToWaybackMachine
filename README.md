@@ -1,4 +1,5 @@
 # Saving KB managed websites to the Wayback Machine
+*Latest update: 23-03-2022*
 
 ## Using Google sheets to archive pages
 without the need to run Python scripts. 
@@ -32,4 +33,4 @@ So if you plan to archive 10.000s URLs (such as for kb.nl, later in 2021), this 
 ## Aim of this repo
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Koninklijke_Bibliotheek_wordmark.svg/150px-Logo_Koninklijke_Bibliotheek_wordmark.svg.png" width="150" align="right"/>
 
-Some websites managed by the [KB, national library of the Netherlands](https://en.wikipedia.org/wiki/Royal_Library_of_the_Netherlands), have been or will be discontinued. To preserve the content of the site (e.g. for sourcing Wikipedia articles) a copy is actively submitted to The Wayback Machine [web.archive.org](https://web.archive.org).
+Some websites managed by the [KB, national library of the Netherlands](https://en.wikipedia.org/wiki/Royal_Library_of_the_Netherlands), have been or will be discontinued. To preserve the content of these sites (e.g. for sourcing Wikipedia articles or cultural heritage preservation purposes) the KB actively submits websites to the The Wayback Machine [web.archive.org](https://web.archive.org).
