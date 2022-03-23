@@ -8,9 +8,9 @@ This script has three modes: It can
 
 It uses https://pypi.org/project/waybackpy/, see https://github.com/akamhy/waybackpy/wiki/Python-package-docs for docs and examples.
 
-It was/will be used to archive
-* the [old kb.nl](../kb.nl/24122021) website in december 2021
-* the [new kb.nl](../kb.nl/xxxx2022) website in Q1 2022
+It was used to archive
+* the [old kb.nl](../kb.nl/24122021) website in December 2021
+* the [new kb.nl](../kb.nl/23032022) in March 2022. This archive run includes the URLs/pages of both the new kb.nl and the new [KB special collections website](https://collecties.kb.nl).
 
 ## Notes:
 *30/11/2021*
