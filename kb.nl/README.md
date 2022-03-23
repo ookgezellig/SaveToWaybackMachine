@@ -3,7 +3,7 @@
 # Saving kb.nl to the Wayback Machine
 *Latest update: 23-03-2022*
 
-Kb.nl, the [website](https://www.kb.nl) of the KB, national library of the Netherlands, is periodically actively copied to the Wayback Machine, ie. the KB takes the initiative to copy (parts of) kb.nl into the WBM. In addition, kb.nl is also passively archived, the WBM crawler archives kb.nl pages without active involvement of the KB. 
+Kb.nl, the [website](https://www.kb.nl) of the KB, national library of the Netherlands, is periodically actively copied to the Wayback Machine, ie. the KB takes the initiative to copy (parts/subdomains of) kb.nl into the WBM. In addition, kb.nl is also passively archived, the WBM crawler archives kb.nl pages without active involvement of the KB. 
 
 ## [WBM archive run March 2022](23032022/)
 The [new kb.nl website](https://www.kb.nl) was launched on 17th March 2022. On the same day, a new, dedicated [KB special collections website](https://collecties.kb.nl) went live as well. Both sites were actively archived into the WBM on 23-24 March 2022, using the same scripts and approach as in the December 2021 run.
