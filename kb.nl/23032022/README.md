@@ -23,6 +23,8 @@ On the same day, a new, dedicated [KB special collections website](https://colle
 
 The KB actively archived both sites into the WBM on 23+24 March 2022, using the [same script](../../wbm-archiver_v2_30112021) and approach as in the [December 2021 run](../24122021/). 
 
-* The file *[urls_kbnl_archivedwbm_23032022.csv](urls_kbnl_archivedwbm_23032022.csv)* contains xxx URLs/pages (as retrieved from the site on 23+24 March 2022) and their WBM archived versions.
-* The file *[urls_kbnl_archivedwbm_23032022.xlsx](urls_kbnl_archivedwbm_23032022.xlsx)* is the Excel equivalent.
-* These files include the archived URLs/pages of both the new kb.nl and the new [KB special collections website](https://collecties.kb.nl).
+* The input URLs were taken from https://www.kb.nl/sitemap.xml and https://collecties.kb.nl/sitemap.xml. 
+* The file *[urls_kbnl_archivedwbm_23032022.csv](urls_kbnl_archivedwbm_23032022.csv)* contains 1.915 URLs/pages (as retrieved from the site on 23+24 March 2022) and their WBM archived versions.
+* This file includes the archived URLs/pages of both the new kb.nl and the new [KB special collections website](https://collecties.kb.nl).
+* The file *[urls_kbnl_archivedwbm_23032022.xlsx](urls_kbnl_archivedwbm_23032022.xlsx)* is the Excel equivalent. This has two sheets: one containing 789 URLs of kb.nl, the other lists 1.126 URLs of collecties.kb.nl (so 1.915 in total).
+
