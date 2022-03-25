@@ -14,6 +14,6 @@ In March 2022 we noticed that [literatuurgeschiedenis.org](https://www.literatuu
 
 We actively archived the site into the WBM on 25 March 2022, using the [same script](../../wbm-archiver_v2_30112021) and approach that was used for [archiving kb.nl](../../kb.nl). 
 
-* The 464 input URLs were taken from https://www.literatuurgeschiedenis.org/sitemap.xml
-* The file *[urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv](urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv)* contains 464 URLs/pages (as retrieved from the site on 25 March 2022) and their WBM archived versions.
+* The input URLs were taken from https://www.literatuurgeschiedenis.org/sitemap.xml
+* The file *[urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv](urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv)* contains 465 URLs/pages (as retrieved from the site on 25 March 2022) and their WBM archived versions.
 * The file *[urls_literatuurgeschiedenisorg_archivedwbm_25032022.xlsx](urls_literatuurgeschiedenisorg_archivedwbm_25032022.xlsx)* is the Excel equivalent.
