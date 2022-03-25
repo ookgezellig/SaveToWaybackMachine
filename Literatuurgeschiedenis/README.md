@@ -1,6 +1,6 @@
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Koninklijke_Bibliotheek_wordmark.svg/150px-Logo_Koninklijke_Bibliotheek_wordmark.svg.png" width="150" align="right"/>
 
-# Saving literatuurgeschiedenis.org to the Wayback Machine
+# Saving Literatuurgeschiedenis.org to the Wayback Machine
 *Latest update: xx-04-2022*
 
 Kb.nl, the [website](https://www.kb.nl) of the KB, national library of the Netherlands, is periodically actively copied to the Wayback Machine, ie. the KB takes the initiative to copy (parts/subdomains of) kb.nl into the WBM. In addition, kb.nl is also passively archived, the WBM crawler archives kb.nl pages without active involvement of the KB. 
