@@ -1,8 +1,14 @@
+<img align="right" width="150" src="assets/Logo_koninklijke_bibliotheek.svg"/>
+
 # SaveToWaybackMachine
 
 Scripts and data for archiving KB-managed websites to the Internet Archive's Wayback Machine.
 
 *Maintained by [KB, national library of the Netherlands](https://www.kb.nl)*
+
+## Purpose
+
+Some websites managed by the KB have been or will be discontinued. To preserve their content for Wikipedia sourcing and cultural heritage purposes, the KB actively archives websites to the Wayback Machine at [web.archive.org](https://web.archive.org).
 
 ## Repository Structure
 
@@ -46,21 +52,15 @@ Archive pages without running Python scripts:
 
 | Site | Archive Date | URLs | Notes |
 |------|--------------|------|-------|
-| [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,618 | Comprehensive literary portal archive |
-| [kb.nl](archived-sites/kb.nl/) | Mar 2022 | - | New site + collecties.kb.nl |
-| [kb.nl](archived-sites/kb.nl/) | Dec 2021 | - | Old site |
-| [Leesplein.nl](archived-sites/Leesplein/) | Summer 2018 | - | Children's reading portal |
-| [Lezenvoordelijst.nl](archived-sites/LezenVoorDeLijst/) | Summer 2018 | - | Reading list portal |
-| [Literaireprijzen.nl](archived-sites/Literaireprijzen.nl/) | Oct 2018 | - | Literary prizes |
-| [Gidsvoornederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | - | Library section |
-| [Literatuurgeschiedenis.org](archived-sites/Literaruurgeschiedenis.org/) | Mar 2022 | - | Literary history |
-
-## Purpose
-
-Some websites managed by the KB have been or will be discontinued. To preserve their content for Wikipedia sourcing and cultural heritage purposes, the KB actively archives websites to the Wayback Machine at [web.archive.org](https://web.archive.org).
+| [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,599 | Comprehensive literary portal archive |
+| [Leesplein.nl](archived-sites/Leesplein/) | Jun 2018 | 23,784 | Children's reading portal |
+| [Lezenvoordelijst.nl](archived-sites/LezenVoorDeLijst/) | Aug 2018 | 12,456 | Reading list portal |
+| [kb.nl](archived-sites/kb.nl/) | Dec 2021 | 5,719 | Old site |
+| [kb.nl](archived-sites/kb.nl/) | Mar 2022 | 1,914 | New site + collecties.kb.nl |
+| [Gidsvoornederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | 1,415 | Library section |
+| [Literatuurgeschiedenis.org](archived-sites/Literaruurgeschiedenis.org/) | Mar 2022 | 464 | Literary history |
+| [Literaireprijzen.nl](archived-sites/Literaireprijzen.nl/) | Oct 2018 | 452 | Literary prizes |
 
 ## License
 
 This project is dedicated to the public domain under [CC0 1.0](LICENSE).
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Koninklijke_Bibliotheek_wordmark.svg/150px-Logo_Koninklijke_Bibliotheek_wordmark.svg.png" width="150"/>

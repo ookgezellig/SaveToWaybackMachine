@@ -10,8 +10,8 @@ This folder contains URLs archived from [lezenvoordelijst.nl](https://www.lezenv
 
 | File | Description |
 |------|-------------|
-| `Input-LvdL_TeArchiverenURLs_17082018_masterfile.txt` | Input list of URLs to be archived (~1.3 MB) |
-| `Output-LvdL_GearchiveerdeURLs_17082018_masterfile.txt` | Output list of successfully archived URLs with Wayback Machine links (~3 MB) |
+| [Input-LvdL_TeArchiverenURLs_17082018_masterfile.txt](Input-LvdL_TeArchiverenURLs_17082018_masterfile.txt) | Input list of URLs to be archived (~1.3 MB) |
+| [Output-LvdL_GearchiveerdeURLs_17082018_masterfile.txt](Output-LvdL_GearchiveerdeURLs_17082018_masterfile.txt) | Output list of successfully archived URLs with Wayback Machine links (~3 MB) |
 
 ## Data format
 

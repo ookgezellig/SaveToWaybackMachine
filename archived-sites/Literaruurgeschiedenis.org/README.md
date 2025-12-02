@@ -13,17 +13,17 @@ This folder contains URLs archived from [literatuurgeschiedenis.org](https://www
 ### Main folder
 | File | Description |
 |------|-------------|
-| `literatuurgeschiedenis_logo.jpg` | Website logo |
+| [literatuurgeschiedenis_logo.jpg](literatuurgeschiedenis_logo.jpg) | Website logo |
 
-### Subfolder: 25032022
+### Subfolder: [25032022](25032022/)
 Contains the archiving results from 25 March 2022:
 
 | File | Description |
 |------|-------------|
-| `url-inputlist_25032022.txt` | Input list of URLs to be archived |
-| `urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv` | Archived URLs with Wayback Machine links |
-| `urls_literatuurgeschiedenisorg_archivedwbm_25032022.xlsx` | Excel version of archived URLs |
-| `images/` | Screenshots of the website |
+| [url-inputlist_25032022.txt](25032022/url-inputlist_25032022.txt) | Input list of URLs to be archived |
+| [urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv](25032022/urls_literatuurgeschiedenisorg_archivedwbm_25032022.csv) | Archived URLs with Wayback Machine links |
+| [urls_literatuurgeschiedenisorg_archivedwbm_25032022.xlsx](25032022/urls_literatuurgeschiedenisorg_archivedwbm_25032022.xlsx) | Excel version of archived URLs |
+| [images/](25032022/images/) | Screenshots of the website |
 
 ### Screenshots (images folder)
 - Homepage screenshot
