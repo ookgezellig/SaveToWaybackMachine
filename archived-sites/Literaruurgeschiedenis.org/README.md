@@ -4,6 +4,16 @@
 
 **Note:** The folder name contains a typo ("Literaruurgeschiedenis" instead of "Literatuurgeschiedenis").
 
+## Wayback Machine Screenshots
+
+| Homepage | 18e Eeuw | 19e Eeuw |
+|:--------:|:--------:|:--------:|
+| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_18e_eeuw.png" width="250"/> | <img src="images/wbm_19e_eeuw.png" width="250"/> |
+
+| 20e Eeuw | Middeleeuwen | Auteurs |
+|:--------:|:------------:|:-------:|
+| <img src="images/wbm_20e_eeuw.png" width="250"/> | <img src="images/wbm_middeleeuwen.png" width="250"/> | <img src="images/wbm_auteurs.png" width="250"/> |
+
 ## About
 
 This folder contains URLs archived from [literatuurgeschiedenis.org](https://www.literatuurgeschiedenis.org/), a Dutch website about the history of Dutch literature, covering various literary periods and authors.

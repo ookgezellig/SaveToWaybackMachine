@@ -2,6 +2,16 @@
 
 *Archived: November 2018*
 
+## Wayback Machine Screenshots
+
+| Homepage | Bibliotheken | Zoeken |
+|:--------:|:------------:|:------:|
+| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_bibliotheken.png" width="250"/> | <img src="images/wbm_zoeken.png" width="250"/> |
+
+| Contact | Over | Help |
+|:-------:|:----:|:----:|
+| <img src="images/wbm_contact.png" width="250"/> | <img src="images/wbm_over.png" width="250"/> | <img src="images/wbm_help.png" width="250"/> |
+
 ## About
 
 This folder contains URLs archived from [gidsvoornederland.nl](https://www.gidsvoornederland.nl/), specifically the section with information about public libraries in the Netherlands.

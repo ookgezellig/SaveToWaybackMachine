@@ -1,7 +1,17 @@
 # Saving Literatuurplein.nl to the Wayback Machine
 *Latest update: 02-12-2025*
 
-<image src="images/literatuurplein-homepage_04122019.JPG" width="500"/><br clear="all"/>
+## Wayback Machine Screenshots
+
+| Homepage | Personen | Boeken |
+|:--------:|:--------:|:------:|
+| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_personen.png" width="250"/> | <img src="images/wbm_boeken.png" width="250"/> |
+
+| Prijzen | Recensies | Nieuws |
+|:-------:|:---------:|:------:|
+| <img src="images/wbm_prijzen.png" width="250"/> | <img src="images/wbm_recensies.png" width="250"/> | <img src="images/wbm_nieuws.png" width="250"/> |
+
+<br clear="all"/>
 
 The site www.literatuurplein.nl has been phased out per 16 December 2019.
 

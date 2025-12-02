@@ -2,6 +2,16 @@
 
 *Archived: July-August 2018*
 
+## Wayback Machine Screenshots
+
+| Homepage | Boeken | Schrijvers |
+|:--------:|:------:|:----------:|
+| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_boeken.png" width="250"/> | <img src="images/wbm_schrijvers.png" width="250"/> |
+
+| Recensies | Lijsten | Tips |
+|:---------:|:-------:|:----:|
+| <img src="images/wbm_recensies.png" width="250"/> | <img src="images/wbm_lijsten.png" width="250"/> | <img src="images/wbm_tips.png" width="250"/> |
+
 ## About
 
 This folder contains URLs archived from [lezenvoordelijst.nl](https://www.lezenvoordelijst.nl/), a Dutch website that helped students find books for their required reading lists (the "leeslijst" for secondary education).

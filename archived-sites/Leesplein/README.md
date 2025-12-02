@@ -2,6 +2,16 @@
 
 *Archived: June 2018*
 
+## Wayback Machine Screenshots
+
+| Homepage | Boeken | Schrijvers |
+|:--------:|:------:|:----------:|
+| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_boeken.png" width="250"/> | <img src="images/wbm_schrijvers.png" width="250"/> |
+
+| Recensies | Tips | Themas |
+|:---------:|:----:|:------:|
+| <img src="images/wbm_recensies.png" width="250"/> | <img src="images/wbm_tips.png" width="250"/> | <img src="images/wbm_themas.png" width="250"/> |
+
 ## About
 
 This folder contains URLs archived from [leesplein.nl](https://www.leesplein.nl/), a Dutch website focused on reading promotion and literacy for children and young adults.
