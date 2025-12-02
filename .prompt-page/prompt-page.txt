@@ -1,0 +1,57 @@
+
+Kun je een uigebride anlause maken alle bestanden in D:\KB-OPEN\github-repos\SaveToWaybackMachine\archived-sites\Literatuurplein, - let vooral op de xlsl en tsv bestanden in de hoofd-direcoer - en aanbevelen hoe we deze folder beter kunnen orgniseren? De bestaande readme documetnweeet de huidige structuur (contolerrt deze readme op fouten), en je kunt deze informatie gebruikeen om een begrip te krijge nvan deze folder. akls je je hetstructreringsanaylses van deze folder gedaan hebt, kn je de readme aanapssen op deze niewe situatie
+
+
+Maar voordat je gaat hetstrutureren: Ik wil niet dat door dese hersteructreing er dode links 404 op het web onstaan, dus Kun je met behulp van bijvoorbeld de EXA MCP op het internet afzoeken of er ergwens websitew zij die linken naar infromatie in de huidige https://github.com/ookgezellig/SaveToWaybackMachine 
+Kijk daarbij vooral naar website in de Wikimedia hoeke, dis bv Wikipedfia of Wikimedia Commons
+
+
+
+En verder heb i nog deze wesnen: 
+
+Ik wil een zo goed en beteouwbaar en stabiel mogelijk scrpt maken om URLS in de WayBack machine te zetten. er zijn daar nu twee scroptrs voor
+- SaveToWaybackMachine_v2_30112021.py
+- SaveToWaybackMachine_v2_30112021_improvedVeraDeKok.py
+
+Ik wil eebn paar dingen
+- kun je zoeken of er ee mcp, skills of plugins bestaan die gespecialieeers zijn in het archiveren van website-URLS in de WaybackMachine
+- zo ja, configireer en ionstalleer deze voor dit project
+- gebruikr vervlgens die servioces om een zoe goed mogelijk .py script te gaan maken obv de twee hieroven genoemde scripts, en aanvullng die je daar zelf op kunt doen
+- verzin een aantal testscenarios waarmee we dit super-sscriopt kunnen testen
+- leg verslag van die testen, schrijf er een verhaal over
+-documeteer dit nieuwe scriopt , hoe werkt het, hoe zit het in lekaar, etc. 
+- update de bestaande README.md in het Github repo
+
+Wat ik ook nog zou willen is dat er van elke 'representatieve pagina' van de website een screenshot gmaakt gaat worden mbv Playwright mcp, maar zeker niet voor alle pagina;s van een site want dan heb je traks 10duizenden screenshots, dat ik wel wat teveel van het goede. Daar moetn we nog een goede stategie voor verzinnen! 
+
+Maak zonogig paralelle processen/agents aan om alle taken uuit te voeren en met elklaar af te stemmen. 
+
+Ga nog geen commits op pushes maken!!
+Vraag me gerust om feedback!!
+
+
+
+=====
+Als antwoord:
+  1. Bevestiging dat je akkoord gaat met het bijwerken van de Wikidata pagina ---> Ja, dat is goed.  Maak zelf maar een goede commit-message
+  2. Timing: Wil je dat ik de Wikidata pagina nu alvast voorbereid (met de nieuwe links), of wacht je liever tot na de GitHub push? --> Graag wachten tot na de push
+  3. Wikidata login: Om de pagina te bewerken heb ik mogelijk je Wikidata inloggegevens nodig, of je moet ingelogd zijn. Heb je een Wikidata account? --> Kun je ene broser openene zoadat   k in kan loggen? Of kan het via Oauth?
+
+==============
+- kun je de logs bijwerken
+- Kun je voor elke xls en tsv in die nieuw aangemaakte  /data/subfolder controleren of er geen formateeringsfouten inzitten, bv een komma of een ; die ergwns niet thuishoort. Zo ja, fix die.
+- Kun je per subfoder ook een README maken met inhoudelijke statitieken van deze tsv/excel bestanden, bv het aantal rijen etc. Of andere nuttige inzichten die je kint opdioen uit de data 
+- En kin je kijken of pers subfolder de xlsx en de tsv wel synchroon klopen, dus of ze dezelfde data bevattn, Raporteer afwijkinen in een rapport. 
+- Maak van al deze REDAMEs in de subfoldwers ook een overixcht in de hoofd-README in dfe Literatuurplein folder. 
+
+
+XXXXXXXXXXXXXXX
+
+The businesscase : to be able to download images in bulk from Wikimmedia Commons, for reuse purposes outside Wikimedia  
+
+The problem: commons bulk download tools
+
+
+using context7 mcp, can you build me a pythn script to download al images from a Wikimedia commos category
+
+

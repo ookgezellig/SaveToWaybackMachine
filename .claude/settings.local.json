@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__github__get_file_contents",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(dir:*)",
+      "Read(path:.claude/logs/**)",
+      "Write(path:.claude/logs/**)",
+      "Edit(path:.claude/logs/**)",
+      "Bash(cat:*)",
+      "mcp__exa_AI_search__web_search_exa",
+      "WebFetch(domain:www.ppf-apg.nl)",
+      "mcp__notion__API-post-search",
+      "mcp__browser-use__wait",
+      "mcp__browser-use__inspect_page",
+      "mcp__browser-use__close_browser",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(playwright install:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_run_code",
+      "mcp__playwright__browser_close",
+      "Bash(git commit:*)",
+      "WebFetch(domain:www.wikidata.org)",
+      "mcp__Wikidata_MCP__execute_wikidata_sparql",
+      "mcp__github__search_code",
+      "Bash(test -f:*)",
+      "mcp__mediawiki_by_professional-wiki__add-wiki",
+      "mcp__mediawiki_by_professional-wiki__set-wiki",
+      "mcp__mediawiki_by_professional-wiki__get-page",
+      "mcp__browser-use__initialize_browser",
+      "Bash(git config:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
