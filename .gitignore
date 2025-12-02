@@ -25,6 +25,3 @@ nul
 *.temp
 ~$*
 
-# Claude/Prompts
-.claude/
-.prompt-page/

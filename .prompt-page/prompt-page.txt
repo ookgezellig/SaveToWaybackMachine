@@ -46,12 +46,7 @@ Als antwoord:
 
 
 XXXXXXXXXXXXXXX
+Can you commit, not yey pudh, and agtet that , Can you update the /Savetowayback - links in https://www.wikidata.org/wiki/Wikidata:WikiProject_Dutch_Literary_Awards give the new
 
-The businesscase : to be able to download images in bulk from Wikimmedia Commons, for reuse purposes outside Wikimedia  
-
-The problem: commons bulk download tools
-
-
-using context7 mcp, can you build me a pythn script to download al images from a Wikimedia commos category
-
-
+To illustra the READMes for each individual achvide sites (and individual folders like 'persons', 'addresses' etc. for Literatuurplein), can you download a number of snapshots from the WayBack Machine,
+take a screenshot, and add those as galleries to all thoese READMEs. Lets do 6 per page.
