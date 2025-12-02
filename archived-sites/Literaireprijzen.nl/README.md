@@ -2,15 +2,9 @@
 
 *Archived: October-November 2018*
 
-## Wayback Machine Screenshots
+## Wayback Machine Screenshot
 
-| Homepage | Prijzen | Winnaars |
-|:--------:|:-------:|:--------:|
-| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_prijzen.png" width="250"/> | <img src="images/wbm_winnaars.png" width="250"/> |
-
-| Auteurs | Boeken | Nieuws |
-|:-------:|:------:|:------:|
-| <img src="images/wbm_auteurs.png" width="250"/> | <img src="images/wbm_boeken.png" width="250"/> | <img src="images/wbm_nieuws.png" width="250"/> |
+<img src="images/wbm_homepage.png" width="500"/>
 
 ## About
 

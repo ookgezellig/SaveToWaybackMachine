@@ -4,13 +4,9 @@
 
 ## Wayback Machine Screenshots
 
-| Homepage | Bibliotheken | Zoeken |
-|:--------:|:------------:|:------:|
-| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_bibliotheken.png" width="250"/> | <img src="images/wbm_zoeken.png" width="250"/> |
-
-| Contact | Over | Help |
-|:-------:|:----:|:----:|
-| <img src="images/wbm_contact.png" width="250"/> | <img src="images/wbm_over.png" width="250"/> | <img src="images/wbm_help.png" width="250"/> |
+| Homepage | Bibliotheken | Contact |
+|:--------:|:------------:|:-------:|
+| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_bibliotheken.png" width="250"/> | <img src="images/wbm_contact.png" width="250"/> |
 
 ## About
 

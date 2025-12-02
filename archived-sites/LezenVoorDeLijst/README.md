@@ -2,15 +2,9 @@
 
 *Archived: July-August 2018*
 
-## Wayback Machine Screenshots
+## Wayback Machine Screenshot
 
-| Homepage | Boeken | Schrijvers |
-|:--------:|:------:|:----------:|
-| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_boeken.png" width="250"/> | <img src="images/wbm_schrijvers.png" width="250"/> |
-
-| Recensies | Lijsten | Tips |
-|:---------:|:-------:|:----:|
-| <img src="images/wbm_recensies.png" width="250"/> | <img src="images/wbm_lijsten.png" width="250"/> | <img src="images/wbm_tips.png" width="250"/> |
+<img src="images/wbm_homepage.png" width="500"/>
 
 ## About
 

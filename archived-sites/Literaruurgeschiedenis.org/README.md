@@ -6,13 +6,13 @@
 
 ## Wayback Machine Screenshots
 
-| Homepage | 18e Eeuw | 19e Eeuw |
-|:--------:|:--------:|:--------:|
-| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_18e_eeuw.png" width="250"/> | <img src="images/wbm_19e_eeuw.png" width="250"/> |
+| Homepage | 19e Eeuw |
+|:--------:|:--------:|
+| <img src="images/wbm_homepage.png" width="350"/> | <img src="images/wbm_19e_eeuw.png" width="350"/> |
 
-| 20e Eeuw | Middeleeuwen | Auteurs |
-|:--------:|:------------:|:-------:|
-| <img src="images/wbm_20e_eeuw.png" width="250"/> | <img src="images/wbm_middeleeuwen.png" width="250"/> | <img src="images/wbm_auteurs.png" width="250"/> |
+| 20e Eeuw | Middeleeuwen |
+|:--------:|:------------:|
+| <img src="images/wbm_20e_eeuw.png" width="350"/> | <img src="images/wbm_middeleeuwen.png" width="350"/> |
 
 ## About
 
