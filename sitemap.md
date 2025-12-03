@@ -15,6 +15,7 @@ Complete overview of all pages on this site.
 
 - [🏠 Home](./index.md) - Main landing page
 - [📖 How this site was built](./how-this-site-was-built.md) - Development story and timeline
+- [🎨 KB huisstijl implementation](./kb-huisstijl.md) - Brand colors and house style
 - [♿ Accessibility, privacy & licensing](./compliance.md) - GDPR, WCAG 2.1, SEO documentation
 - [🗺️ Sitemap](./sitemap.md) - This page
 

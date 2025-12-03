@@ -18,6 +18,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 - [Major achievement: AI vision recognition](#major-achievement-ai-vision-recognition)
 - [KB huisstijl implementation](#kb-huisstijl-implementation)
 - [Accessibility, privacy & licensing](#compliance--accessibility)
+- [Why frequent commits matter](#why-frequent-commits-matter)
 - [Full session log](#full-session-log)
 
 ---
@@ -224,52 +225,15 @@ This demonstrates AI can:
 
 On December 3, 2025, the site design was updated to align with the official KB (Koninklijke Bibliotheek) house style guidelines. This ensures visual consistency with other KB digital properties.
 
-### Color palette
+### Key changes
 
-The site now uses the official KB brand colors defined as CSS custom properties:
+- Implemented official KB color palette (gold, blue, beige, pink, teal)
+- Updated header, footer, links, and navigation with brand colors
+- Redesigned footer: black background, white text, white logo
+- Added CSS custom properties for easy maintenance
+- Ensured WCAG 2.1 AA compliance for all color combinations
 
-| Color | Hex Code | CSS Variable | Usage |
-|-------|----------|--------------|-------|
-| Gold | #cba052 | `--kb-gold` | Header accent, card hover borders |
-| Gold Dark | #8f6a2a | `--kb-gold-dark` | Accent color |
-| Blue | #407ec9 | `--kb-blue` | Link hover states, focus indicators |
-| Blue Dark | #001a70 | `--kb-blue-dark` | Primary links |
-| Pink | #ef6079 | `--kb-pink` | Dark mode visited links |
-| Pink Dark | #621323 | `--kb-pink-dark` | Visited links |
-| Beige | #ecdcc8 | `--kb-beige` | Breadcrumbs, table headers |
-| Teal | #9cdbd9 | `--kb-teal` | Available for accent use |
-| Light Blue | #96bded | `--kb-light-blue` | Accent color |
-
-### Design elements updated
-
-| Element | Before | After |
-|---------|--------|-------|
-| Header border | Gray (#e5e5e5) | KB Gold (#cba052) |
-| Link color | Generic blue (#0056b3) | KB Dark Blue (#001a70) |
-| Link hover | Darker blue (#003d7a) | KB Blue (#407ec9) |
-| Breadcrumbs | Light gray (#f8f9fa) | KB Beige (#ecdcc8) |
-| Table headers | Light gray (#f6f8fa) | KB Beige (#ecdcc8) |
-| Card hover | Shadow only | Shadow + Gold border |
-| Footer background | Gray (#2d3748) | Black (#000) |
-| Footer text & headings | Varied | White (#fff) |
-| Footer logo | Color KB logo | White KB logo |
-| Social icons | With background circles | Transparent (icon only) |
-
-### Implementation approach
-
-1. **CSS Custom Properties** - All KB colors are defined as CSS variables in `:root`, making future updates easy
-2. **Consistent hover states** - Gold accents appear on interaction throughout the site
-3. **Dark mode support** - KB colors are adapted for dark mode while maintaining brand recognition
-4. **WCAG compliance** - All color combinations maintain minimum 4.5:1 contrast ratio
-
-### Source materials
-
-The KB huisstijl implementation was based on:
-- Official KB Huisstijlportaal documentation
-- Color palette reference images
-- CSS variables from KB digital properties
-
-These materials are stored in `.kbhuisstijl-docs/` for reference.
+📄 **[Full KB huisstijl documentation →](kb-huisstijl.md)**
 
 ---
 
@@ -334,11 +298,53 @@ Additional features:
 
 ---
 
+## Why frequent commits matter
+
+One unexpected benefit of working with Claude Code is how it transforms version control from a chore into a natural part of the workflow.
+
+### Before AI assistance
+
+- Writing commit messages was manual and time-consuming
+- Developers often batched many changes into single commits
+- Git commands required memorization or documentation lookup
+- Version control felt like overhead rather than a tool
+
+### With AI assistance
+
+- Commits happen in natural language: "commit and push"
+- Each small change gets its own descriptive commit
+- Complex Git operations become accessible to all skill levels
+- Version control becomes an integral part of the conversation
+
+### Benefits of frequent commits
+
+| Benefit | Description |
+|---------|-------------|
+| **Detailed history** | Every change is documented with context |
+| **Time tracking** | Commit timestamps enable accurate time expenditure analysis |
+| **Easy rollback** | Small commits make it simple to undo specific changes |
+| **Better collaboration** | Clear history helps others understand the evolution |
+| **Learning record** | The commit log becomes a tutorial of the development process |
+| **Accountability** | Each decision is recorded with its rationale |
+
+### This project as example
+
+This project has **40+ commits** over two sessions. Each commit represents a logical unit of work:
+- Bug fixes get their own commits
+- Style changes are separate from structural changes
+- Documentation updates are tracked independently
+
+The result is a complete, searchable history that serves as both documentation and a learning resource.
+
+---
+
 ## Full session log
 
-The complete session log with all prompts, actions, and technical details is available at:
+The complete session logs with all prompts, actions, and technical details are available at:
 
-📄 **[.claude/logs/2025-12-02-session-1.md](https://github.com/ookgezellig/SaveToWaybackMachine/blob/main/.claude/logs/2025-12-02-session-1.md)**
+📄 **[Session 1 (Dec 2, 2025)](.claude/logs/2025-12-02-session-1.md)** - Repository reorganization, screenshots, GitHub Pages setup
+
+📄 **[Session 2 (Dec 3, 2025)](.claude/logs/2025-12-03-session-1.md)** - KB huisstijl, compliance, code organization, documentation refinements
 
 ---
 
