@@ -16,40 +16,40 @@ Some websites managed by the KB have been discontinued. To preserve their conten
 ## Browse Archived Sites
 
 <div class="nav-cards">
-  <a href="archived-sites/Literatuurplein/" class="nav-card">
-    <img src="archived-sites/Literatuurplein/images/wbm_homepage.png" alt="Literatuurplein.nl screenshot">
-    <h3>Literatuurplein.nl</h3>
-    <p>Comprehensive literary portal - 69,599 URLs archived (Dec 2019)</p>
-  </a>
-  <a href="archived-sites/Leesplein/" class="nav-card">
-    <img src="archived-sites/Leesplein/images/wbm_homepage.png" alt="Leesplein.nl screenshot">
-    <h3>Leesplein.nl</h3>
-    <p>Children's reading portal - 23,784 URLs archived (Jun 2018)</p>
-  </a>
-  <a href="archived-sites/LezenVoorDeLijst/" class="nav-card">
-    <img src="archived-sites/LezenVoorDeLijst/images/wbm_homepage.png" alt="LezenVoorDeLijst.nl screenshot">
-    <h3>LezenVoorDeLijst.nl</h3>
-    <p>Reading list portal - 12,456 URLs archived (Aug 2018)</p>
-  </a>
   <a href="archived-sites/kb.nl/" class="nav-card">
     <img src="archived-sites/kb.nl/23032022/images/kbnl_homepage_23032022.png" alt="kb.nl screenshot">
     <h3>kb.nl</h3>
     <p>KB website archives - 7,633 URLs archived (Dec 2021 & Mar 2022)</p>
-  </a>
-  <a href="archived-sites/GidsVoorNederland/" class="nav-card">
-    <img src="archived-sites/GidsVoorNederland/images/wbm_homepage.png" alt="GidsVoorNederland.nl screenshot">
-    <h3>GidsVoorNederland.nl</h3>
-    <p>Library section - 1,415 URLs archived (Nov 2018)</p>
   </a>
   <a href="archived-sites/Literaruurgeschiedenis.org/" class="nav-card">
     <img src="archived-sites/Literaruurgeschiedenis.org/images/wbm_homepage.png" alt="Literatuurgeschiedenis.org screenshot">
     <h3>Literatuurgeschiedenis.org</h3>
     <p>Literary history - 464 URLs archived (Mar 2022)</p>
   </a>
+  <a href="archived-sites/Literatuurplein/" class="nav-card">
+    <img src="archived-sites/Literatuurplein/images/wbm_homepage.png" alt="Literatuurplein.nl screenshot">
+    <h3>Literatuurplein.nl</h3>
+    <p>Comprehensive literary portal - 69,599 URLs archived (Dec 2019)</p>
+  </a>
+  <a href="archived-sites/GidsVoorNederland/" class="nav-card">
+    <img src="archived-sites/GidsVoorNederland/images/wbm_homepage.png" alt="GidsVoorNederland.nl screenshot">
+    <h3>GidsVoorNederland.nl</h3>
+    <p>Library section - 1,415 URLs archived (Nov 2018)</p>
+  </a>
   <a href="archived-sites/Literaireprijzen.nl/" class="nav-card">
     <img src="archived-sites/Literaireprijzen.nl/images/wbm_homepage.png" alt="Literaireprijzen.nl screenshot">
     <h3>Literaireprijzen.nl</h3>
     <p>Literary prizes - 452 URLs archived (Oct 2018)</p>
+  </a>
+  <a href="archived-sites/LezenVoorDeLijst/" class="nav-card">
+    <img src="archived-sites/LezenVoorDeLijst/images/wbm_homepage.png" alt="LezenVoorDeLijst.nl screenshot">
+    <h3>LezenVoorDeLijst.nl</h3>
+    <p>Reading list portal - 12,456 URLs archived (Aug 2018)</p>
+  </a>
+  <a href="archived-sites/Leesplein/" class="nav-card">
+    <img src="archived-sites/Leesplein/images/wbm_homepage.png" alt="Leesplein.nl screenshot">
+    <h3>Leesplein.nl</h3>
+    <p>Children's reading portal - 23,784 URLs archived (Jun 2018)</p>
   </a>
 </div>
 
