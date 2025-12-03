@@ -284,10 +284,7 @@ The KB (Koninklijke Bibliotheek) logo is licensed under [Creative Commons Attrib
 
 #### Social media brand icons
 
-The social media icons (Bluesky, Mastodon, LinkedIn, YouTube, Instagram, Facebook, GitHub) are:
-
-- **Icon designs**: Based on [Simple Icons](https://simpleicons.org/) (CC0 licensed)
-- **Brand trademarks**: The brand names and logos are registered trademarks of their respective companies. They are used here solely to link to the KB's official social media presence.
+The social media icons (Bluesky, Mastodon, LinkedIn, YouTube, Instagram, Facebook, GitHub) represent registered trademarks of their respective companies. They are used here solely to link to the KB's official social media presence.
 
 ### Summary
 
@@ -298,7 +295,7 @@ The social media icons (Bluesky, Mastodon, LinkedIn, YouTube, Instagram, Faceboo
 | Data files | CC0 1.0 (Public Domain) |
 | Wayback Machine screenshots | Third-party copyrights apply |
 | KB logo | CC BY-SA 3.0 |
-| Social media icons | Trademarks of respective companies |
+| Social media brand icons | Trademarks of respective companies |
 
 ---
 
