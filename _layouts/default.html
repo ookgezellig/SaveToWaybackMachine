@@ -444,14 +444,111 @@
 
     .footer {
       margin-top: 40px;
-      padding-top: 20px;
-      border-top: 1px solid #e5e5e5;
-      color: #4a4a4a;
-      font-size: 0.85em;
+      padding: 40px 20px 20px;
+      background: #1a1a1a;
+      color: #e0e0e0;
+      font-size: 0.9em;
+    }
+
+    .footer-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 30px;
+    }
+
+    .footer-section h4 {
+      color: #fff;
+      margin-bottom: 15px;
+      font-size: 1em;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .footer-section ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-section li {
+      margin-bottom: 8px;
     }
 
     .footer a {
-      color: #0056b3;
+      color: #a0c4ff;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+
+    .footer-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 15px;
+    }
+
+    .footer-logo img {
+      height: 40px;
+      width: auto;
+    }
+
+    .social-icons {
+      display: flex;
+      gap: 12px;
+      margin-top: 15px;
+      flex-wrap: wrap;
+    }
+
+    .social-icons a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      background: #333;
+      border-radius: 50%;
+      transition: background 0.2s;
+    }
+
+    .social-icons a:hover {
+      background: #0056b3;
+    }
+
+    .social-icons img {
+      width: 20px;
+      height: 20px;
+    }
+
+    .compliance-badges {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 15px;
+    }
+
+    .compliance-badges img {
+      height: 32px;
+      width: auto;
+    }
+
+    .footer-bottom {
+      max-width: 1200px;
+      margin: 30px auto 0;
+      padding-top: 20px;
+      border-top: 1px solid #333;
+      text-align: center;
+      font-size: 0.85em;
+      color: #888;
+    }
+
+    .footer-bottom a {
+      color: #a0c4ff;
     }
 
     hr {
@@ -625,8 +722,15 @@
       }
 
       .footer {
-        border-color: #444;
-        color: #b0b0b0;
+        background: #0d0d0d;
+      }
+
+      .footer-section h4 {
+        color: #e0e0e0;
+      }
+
+      .social-icons a {
+        background: #222;
       }
 
       hr {
@@ -698,9 +802,74 @@
   </main>
 
   <footer class="footer" role="contentinfo">
-    <p>Maintained by <a href="https://www.kb.nl" rel="noopener">KB, national library of the Netherlands</a></p>
-    <p>This project is dedicated to the public domain under <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="license noopener">CC0 1.0</a></p>
-    <p><a href="{{ '/compliance' | relative_url }}">Accessibility &amp; Compliance</a></p>
+    <div class="footer-content">
+      <div class="footer-section">
+        <div class="footer-logo">
+          <img src="{{ '/assets/kb-logo.svg' | relative_url }}" alt="KB nationale bibliotheek" height="40">
+        </div>
+        <p>Preserving Dutch digital heritage through web archiving.</p>
+        <div class="social-icons">
+          <a href="https://bsky.app/profile/kb.nl" rel="noopener" aria-label="Bluesky">
+            <img src="{{ '/assets/icons/bluesky.svg' | relative_url }}" alt="">
+          </a>
+          <a href="https://mastodon.social/@KB_Nederland" rel="noopener" aria-label="Mastodon">
+            <img src="{{ '/assets/icons/mastodon.svg' | relative_url }}" alt="">
+          </a>
+          <a href="https://www.linkedin.com/company/koninklijke-bibliotheek" rel="noopener" aria-label="LinkedIn">
+            <img src="{{ '/assets/icons/linkedin.svg' | relative_url }}" alt="">
+          </a>
+          <a href="https://www.youtube.com/user/KonijklijkeBibliothe" rel="noopener" aria-label="YouTube">
+            <img src="{{ '/assets/icons/youtube.svg' | relative_url }}" alt="">
+          </a>
+          <a href="https://www.instagram.com/kb_nederland/" rel="noopener" aria-label="Instagram">
+            <img src="{{ '/assets/icons/instagram.svg' | relative_url }}" alt="">
+          </a>
+          <a href="https://www.facebook.com/KonijklijkeBibliotheek" rel="noopener" aria-label="Facebook">
+            <img src="{{ '/assets/icons/facebook.svg' | relative_url }}" alt="">
+          </a>
+          <a href="https://github.com/ookgezellig/SaveToWaybackMachine" rel="noopener" aria-label="GitHub">
+            <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="">
+          </a>
+        </div>
+      </div>
+
+      <div class="footer-section">
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/archived-sites/' | relative_url }}">Archived sites</a></li>
+          <li><a href="{{ '/scripts/' | relative_url }}">Scripts</a></li>
+          <li><a href="{{ '/how-this-site-was-built' | relative_url }}">How this site was built</a></li>
+          <li><a href="{{ '/sitemap' | relative_url }}">Sitemap</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h4>Legal & compliance</h4>
+        <ul>
+          <li><a href="{{ '/compliance' | relative_url }}">Accessibility & compliance</a></li>
+          <li><a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener">License (CC0 1.0)</a></li>
+          <li><a href="https://www.kb.nl/privacy" rel="noopener">Privacy (KB)</a></li>
+        </ul>
+        <div class="compliance-badges">
+          <img src="{{ '/assets/badges/wcag-aa.svg' | relative_url }}" alt="WCAG 2.1 Level AA compliant">
+          <img src="{{ '/assets/badges/gdpr-compliant.svg' | relative_url }}" alt="GDPR/AVG compliant">
+          <img src="{{ '/assets/badges/cc0.svg' | relative_url }}" alt="CC0 Public Domain">
+        </div>
+      </div>
+
+      <div class="footer-section">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="https://www.kb.nl" rel="noopener">www.kb.nl</a></li>
+          <li><a href="https://github.com/ookgezellig/SaveToWaybackMachine/issues" rel="noopener">Report an issue</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: '%Y' }} KB, national library of the Netherlands. This project is dedicated to the <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener">public domain</a>.</p>
+    </div>
   </footer>
 
   <!-- Lightbox with ARIA attributes -->

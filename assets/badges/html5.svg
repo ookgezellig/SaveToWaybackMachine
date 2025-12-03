@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="40" viewBox="0 0 80 40">
+  <rect width="80" height="40" rx="4" fill="#e34f26"/>
+  <text x="40" y="16" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">HTML5</text>
+  <text x="40" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">Valid</text>
+</svg>

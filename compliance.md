@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Accessibility & Compliance
+title: Accessibility & compliance
 description: Accessibility statement and compliance documentation for the SaveToWaybackMachine website
 breadcrumb:
-  - title: Accessibility & Compliance
+  - title: Accessibility & compliance
 ---
 
 [← Back to Home](./)
 
-# Accessibility & Compliance
+# Accessibility & compliance
 
 This page documents the accessibility features, privacy compliance, and technical standards implemented on this website.
 
 ---
 
-## GDPR/AVG Compliance
+## GDPR/AVG compliance
 
 This website is fully compliant with the **General Data Protection Regulation (GDPR)** and the Dutch **Algemene Verordening Gegevensbescherming (AVG)**.
 
@@ -38,7 +38,7 @@ This website is fully compliant with the **General Data Protection Regulation (G
 
 ---
 
-## WCAG 2.1 Accessibility
+## WCAG 2.1 accessibility
 
 This website strives to meet **WCAG 2.1 Level AA** compliance, the European standard for web accessibility.
 

@@ -6,60 +6,75 @@ Scripts and data for archiving KB-managed websites to the Internet Archive's Way
 
 *Maintained by [KB, national library of the Netherlands](https://www.kb.nl)*
 
+## Website
+
+**[View the live site →](https://ookgezellig.github.io/SaveToWaybackMachine/)**
+
+This repository has a companion GitHub Pages website with screenshot galleries, interactive navigation, and comprehensive documentation.
+
 ## Purpose
 
-Some websites managed by the KB have been or will be discontinued. To preserve their content for Wikipedia sourcing and cultural heritage purposes, the KB actively archives websites to the Wayback Machine at [web.archive.org](https://web.archive.org).
+Some websites managed by the KB have been discontinued. To preserve their content for Wikipedia sourcing and cultural heritage purposes, the KB actively archives websites to the Wayback Machine at [web.archive.org](https://web.archive.org).
 
-## Repository Structure
+## Archived sites
 
-```
-SaveToWaybackMachine/
-├── scripts/                    # Python archiving scripts
-│   └── wbm-archiver/          # Wayback Machine archiver
-└── archived-sites/            # Archived website data by site
-    ├── GidsVoorNederland/
-    ├── Leesplein/
-    ├── LezenVoorDeLijst/
-    ├── Literaireprijzen.nl/
-    ├── Literatuurplein/
-    ├── Literaruurgeschiedenis.org/
-    └── kb.nl/
-```
+| Site | Archive date | URLs |
+|------|--------------|------|
+| [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,599 |
+| [Leesplein.nl](archived-sites/Leesplein/) | Jun 2018 | 23,784 |
+| [LezenVoorDeLijst.nl](archived-sites/LezenVoorDeLijst/) | Aug 2018 | 12,456 |
+| [kb.nl](archived-sites/kb.nl/) | Dec 2021 & Mar 2022 | 7,633 |
+| [GidsVoorNederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | 1,415 |
+| [Literatuurgeschiedenis.org](archived-sites/Literatuurgeschiedenis.org/) | Mar 2022 | 464 |
+| [Literaireprijzen.nl](archived-sites/Literaireprijzen.nl/) | Oct 2018 | 452 |
 
-Each archived site folder contains a README.md with details about the archived content.
+**Total: ~115,000+ URLs archived**
+
+## How this site was built
+
+This project was transformed in December 2025 through an intensive AI-human collaboration:
+
+- **7+ hours** of development across Dec 2-3, 2025
+- **25+ commits** reorganizing and enhancing the repository
+- Built using **Claude Opus 4.5** AI assistant via Claude Code CLI
+
+### Key achievements
+
+1. **Repository reorganization** - Clean hierarchical folder structure
+2. **Screenshot galleries** - 36 Wayback Machine screenshots captured via Python/Selenium
+3. **GitHub Pages website** - Responsive site with navigation, lightbox, and breadcrumbs
+4. **AI vision recognition** - Used multimodal AI to extract meaningful captions from screenshots
+5. **EU compliance** - GDPR, WCAG 2.1 Level AA, comprehensive accessibility features
+
+**[Read the full story →](https://ookgezellig.github.io/SaveToWaybackMachine/how-this-site-was-built)**
 
 ## Scripts
 
-### wbm-archiver (v2 - 30-11-2021)
+### wbm-archiver
 
 Location: `scripts/wbm-archiver/`
 
-This Python script has three modes:
+Python script with three modes:
 1. Save pages to the Wayback Machine
-2. Retrieve the latest archived version of a page
-3. Retrieve the oldest archived version of a page
+2. Retrieve the latest archived version
+3. Retrieve the oldest archived version
 
 **Requirements:** Python 3.x, waybackpy
 
-**Usage:** See the README in the scripts folder.
+### Alternative method
 
-## Alternative: Google Sheets Method
+Archive pages without Python: [archive.org/services/wayback-gsheets/](https://archive.org/services/wayback-gsheets/)
 
-Archive pages without running Python scripts:
-- https://archive.org/services/wayback-gsheets/
+## Compliance
 
-## Archived Sites
+The companion website meets European standards:
 
-| Site | Archive Date | URLs | Notes |
-|------|--------------|------|-------|
-| [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,599 | Comprehensive literary portal archive |
-| [Leesplein.nl](archived-sites/Leesplein/) | Jun 2018 | 23,784 | Children's reading portal |
-| [Lezenvoordelijst.nl](archived-sites/LezenVoorDeLijst/) | Aug 2018 | 12,456 | Reading list portal |
-| [kb.nl](archived-sites/kb.nl/) | Dec 2021 | 5,719 | Old site |
-| [kb.nl](archived-sites/kb.nl/) | Mar 2022 | 1,914 | New site + collecties.kb.nl |
-| [Gidsvoornederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | 1,415 | Library section |
-| [Literatuurgeschiedenis.org](archived-sites/Literaruurgeschiedenis.org/) | Mar 2022 | 464 | Literary history |
-| [Literaireprijzen.nl](archived-sites/Literaireprijzen.nl/) | Oct 2018 | 452 | Literary prizes |
+- **GDPR/AVG** - No cookies, no tracking, no personal data
+- **WCAG 2.1 Level AA** - Full accessibility compliance
+- **Responsive design** - Desktop, tablet, mobile support
+- **SEO optimized** - Schema.org, Open Graph, Twitter Cards
+
+**[View compliance documentation →](https://ookgezellig.github.io/SaveToWaybackMachine/compliance)**
 
 ## License
 

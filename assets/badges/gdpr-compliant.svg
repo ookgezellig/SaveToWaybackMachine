@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <rect width="120" height="40" rx="4" fill="#003399"/>
+  <text x="10" y="16" fill="#fff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">GDPR/AVG</text>
+  <text x="10" y="30" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Compliant</text>
+  <circle cx="100" cy="20" r="12" fill="#ffcc00"/>
+  <text x="100" y="25" fill="#003399" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">EU</text>
+</svg>
