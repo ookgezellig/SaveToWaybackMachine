@@ -17,7 +17,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 - [Development phases](#development-phases)
 - [Major achievement: AI vision recognition](#major-achievement-ai-vision-recognition)
 - [KB huisstijl implementation](#kb-huisstijl-implementation)
-- [Compliance & accessibility](#compliance--accessibility)
+- [Accessibility, privacy & licensing](#compliance--accessibility)
 - [Full session log](#full-session-log)
 
 ---

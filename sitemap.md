@@ -15,7 +15,7 @@ Complete overview of all pages on this site.
 
 - [🏠 Home](./index.md) - Main landing page
 - [📖 How this site was built](./how-this-site-was-built.md) - Development story and timeline
-- [♿ Accessibility & compliance](./compliance.md) - GDPR, WCAG 2.1, SEO documentation
+- [♿ Accessibility, privacy & licensing](./compliance.md) - GDPR, WCAG 2.1, SEO documentation
 - [🗺️ Sitemap](./sitemap.md) - This page
 
 ---
@@ -78,8 +78,8 @@ Complete overview of all pages on this site.
 | **Total archived sites** | 7 |
 | **Total URLs archived** | ~115,803 |
 | **Total pages on this site** | 15+ |
-| **Git commits** | 23 |
-| **Development time** | ~7 hours |
+| **Git commits** | 33 |
+| **Development time** | ~10 hours |
 
 ---
 

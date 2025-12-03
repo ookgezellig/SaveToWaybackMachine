@@ -29,5 +29,40 @@ Maak zonogig paralelle processen/agents aan om alle taken uuit te voeren en met 
 Ga nog geen commits op pushes maken!!
 Vraag me gerust om feedback!!
 
-========
- On https://ookgezellig.github.io/SaveToWaybackMachine/, the link in the wmb-activer tile goes 404
+========================
+
+<GO into PLAN MODE tot work on these use case below>
+
+Ok, so fat for all the teakijg an the styling of the sire, I want to move over to a bigget task: to prepate this site and the repo for the full IA wayback machine archinvig of two website maintaijed by yhje KB librry that will be taken offline per 15 dec 2025. These sites are https://mmdc.nl/ and https://manuscripts.kb.nl/. The aim will be to capture ALL pages ciontained in that site, so exteaxting out all URLs from both sites and store these in an Excel, so that we can use the exisitnt arching scripts to upload the URLS to the Wayback machine. So there are several takss that needto be done :
+
+1) desgin a process to capture all URLS of both sires, grpuded by the functuional subpart of the site they belong to. For that we must haver acces to the best spiders/crawlers tyo can find - please adovoce which tools and MCPs to use - and use those to get a complete inventory of all URLS. This can be sterssfull for thethe 2 sites, as this will generatesome traffic for the. o thingh abvout throttleing and user agents.
+
+2) Store all URLs in an Excel, one sheet per functuional subpart of the site. do this in a 'streaming' approacht , incetrmentally add new row to the Excel
+
+3) Based upon the exsiting scriopts, redesign/redevlop a optimiozed Python script that can be used to upload all URLS into the wayback machine
+
+3) tracs and administrate the upoading process, and verify thast all uploads are indeed succesfuuly captured. Make sample screenshots for me to reiew
+
+4) augments the existing Excel sheetas with the URLS of the capture sites, and make sure that input and ouput equal the sasme number of rows. Verify that
+
+5) update the repo and the end-user facing site with all relevant info, statistics, tables, dataset etc. to share the arghical cpaturing of https://mmdc.nl/ and https://manuscripts.kb.nl/
+
+6) Fully document the full journay how we have added the two new sites into the Wayback Machine and on this site.
+
+7) Prepare comminications, news items, social media post (see the social KB channels on the currwnt website) and other products for both internal (for audiences in the KB) and public (for end user and intererested professional groups in the field of webarchving, sich as https://www.internetarchive.eu/ itself. pls search for any relevant peo[ple and email addresses, linkenin profiles (there is n MCP for that if I correcly remember, pls advice),  siocial media channels in the fiels of webarchinvong that mgh be interested in the strory od ho we rebuilt the currnt site by using agentic AI, and in the additiona of the two new websites.
+And beacuse these two site are about mediaval manusctrippts, also serarch for contacts details ,websiter, linkedin and social channels etc. within that commuinity.
+
+8) read the abovc and desgin me a details step by step plan of how weer are going to tackle all this work, in an orddene and logical way.
+
+9) Advise me on implmenting any subagents that might want to work on task in parallel. plase not that I have zero expetrience with subagent, I;ve been ussing Cluade code for inly very short time
+
+10) Ask me any questions that you might have, or reuquirem me to give you extra inputs on. As I don;t want read lost of texts, desgin and implemenont as simple front-end that I can use to effecivlyy and simpley answer the clearifying or missing inupt questuions you might still havd. I wan to be ablle to Save intermeduialte answers, as i might need to work on other jobs in parralel. I do;t wantto loose the answers I laready provided you with, but I wan to be able to go back to ajdust oprevois anseerswers,Only a the very end I want press an the submit button to send toyu all my inpt. . Make sure that his inupy system is part othe repo, but in a full separeted folder. Docuinet this feedback system/questuoinnare carwefilly, as I want it to be ppart of the documentaton of the overall journey ("The full story") we took to desginb this site and the content it holds.
+
+11)  Update the log witg this promet and a summary of your answers.
+
+
+===================
+
+License (CC0 1.0) can go away in the footer
+
+

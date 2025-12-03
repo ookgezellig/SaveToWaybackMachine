@@ -34,7 +34,9 @@
       "mcp__browser-use__initialize_browser",
       "Bash(git config:*)",
       "mcp__browser-use__go_to_url",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(curl:*)",
+      "Bash(git push)"
     ],
     "deny": [],
     "ask": []
