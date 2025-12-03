@@ -36,7 +36,6 @@ Complete overview of all pages on this site.
 | [Literaireprijzen.nl](./archived-sites/Literaireprijzen.nl/) | Literary prizes | 452 |
 | [LezenVoorDeLijst.nl](./archived-sites/LezenVoorDeLijst/) | Reading lists | 12,456 |
 | [Leesplein.nl](./archived-sites/Leesplein/) | Children's reading | 23,784 |
-| └─ [olderstuff/](./archived-sites/Leesplein/olderstuff/) | Earlier archives | |
 
 ---
 

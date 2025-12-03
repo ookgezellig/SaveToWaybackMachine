@@ -25,3 +25,6 @@ nul
 *.temp
 ~$*
 
+# Excluded folders
+archived-sites/Leesplein/olderstuff/
+
