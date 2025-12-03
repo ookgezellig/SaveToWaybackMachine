@@ -30,5 +30,7 @@ Ga nog geen commits op pushes maken!!
 Vraag me gerust om feedback!!
 
 ========
+On https://ookgezellig.github.io/SaveToWaybackMachine/archived-sites/Literatuurplein/, the formattong in the text seems incorerect. Can you check.  There seenms to be a table-like layoutr. Ita abo u this snippet:  For every .xlsx there is a .tsv (tab separated value) in plain text Unicode UTF-8. This can be readily imported/exported to other data formats.
+One page can be available under multiple URLs. For example, if you look into literatuurplein-adressenbank_03122019.tsv you see three lines for *55 Ambo 	Anthos uitgevers, Herengracht 499, Amsterdam Noord-Holland*, as this page was available under 3 distinct URLs
 
-Some websites managed by the KB have been or will be discontinued. --> Some websites managed by the KB have been discontinued.
+    https://literatuurplein.nl/detail/organisatie/ambo-anthos-uitgevers/55

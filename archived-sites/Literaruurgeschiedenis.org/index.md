@@ -32,12 +32,13 @@ This folder contains URLs archived from [literatuurgeschiedenis.org](https://www
 ## Contents
 
 ### Main folder
+
 | File | Description |
 |------|-------------|
 | [literatuurgeschiedenis_logo.jpg](literatuurgeschiedenis_logo.jpg) | Website logo |
 
 ### Subfolder: [25032022](25032022/)
-Contains the archiving results from 25 March 2022:
+Contains the archiving results from 25 March 2022.
 
 | File | Description |
 |------|-------------|

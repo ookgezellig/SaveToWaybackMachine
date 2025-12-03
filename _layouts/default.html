@@ -138,6 +138,61 @@
     table img {
       display: block;
       margin: 0 auto;
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+    table img:hover {
+      opacity: 0.8;
+    }
+    /* Lightbox styles */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.9);
+      cursor: pointer;
+    }
+    .lightbox.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    }
+    .lightbox-close {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      color: #fff;
+      font-size: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      z-index: 1001;
+    }
+    .lightbox-close:hover {
+      color: #ccc;
+    }
+    .lightbox-caption {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: #fff;
+      font-size: 0.9em;
+      text-align: center;
+      max-width: 80%;
+      padding: 10px 20px;
+      background: rgba(0, 0, 0, 0.6);
+      border-radius: 4px;
     }
     pre, code {
       background: #f6f8fa;
@@ -213,5 +268,60 @@
     <p>Maintained by <a href="https://www.kb.nl">KB, national library of the Netherlands</a></p>
     <p>This project is dedicated to the public domain under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a></p>
   </footer>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox">
+    <span class="lightbox-close">&times;</span>
+    <img src="" alt="" id="lightbox-img">
+    <div class="lightbox-caption" id="lightbox-caption"></div>
+  </div>
+
+  <script>
+    // Lightbox functionality for gallery images
+    (function() {
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImg = document.getElementById('lightbox-img');
+      const lightboxCaption = document.getElementById('lightbox-caption');
+      const closeBtn = document.querySelector('.lightbox-close');
+
+      // Add click handlers to all images in tables (galleries)
+      document.querySelectorAll('table img').forEach(function(img) {
+        img.addEventListener('click', function() {
+          lightbox.classList.add('active');
+          lightboxImg.src = this.src;
+          lightboxImg.alt = this.alt;
+          // Get caption from the table header above the image
+          const cell = this.closest('td');
+          if (cell) {
+            const cellIndex = Array.from(cell.parentNode.children).indexOf(cell);
+            const headerRow = cell.closest('table').querySelector('thead tr, tr:first-child');
+            if (headerRow) {
+              const headerCell = headerRow.children[cellIndex];
+              if (headerCell) {
+                lightboxCaption.textContent = headerCell.textContent;
+              }
+            }
+          }
+          document.body.style.overflow = 'hidden';
+        });
+      });
+
+      // Close lightbox on click
+      lightbox.addEventListener('click', function(e) {
+        if (e.target === lightbox || e.target === closeBtn) {
+          lightbox.classList.remove('active');
+          document.body.style.overflow = '';
+        }
+      });
+
+      // Close on Escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && lightbox.classList.contains('active')) {
+          lightbox.classList.remove('active');
+          document.body.style.overflow = '';
+        }
+      });
+    })();
+  </script>
 </body>
 </html>

@@ -30,6 +30,7 @@ This folder contains URLs archived from [leesplein.nl](https://www.leesplein.nl/
 ## Contents
 
 ### Main files
+
 | File | Description |
 |------|-------------|
 | [Input-Leesplein_TeArchiverenURLs_14062018_masterfile.txt](Input-Leesplein_TeArchiverenURLs_14062018_masterfile.txt) | Input list of URLs to be archived (~1.8 MB) |

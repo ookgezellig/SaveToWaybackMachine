@@ -40,10 +40,11 @@ The results of this archiving effort are listed in the .xlsx and .tsv files in t
   - *Klik* : Clicking on this will open the archived page in a browser.
 * Additionaly, some Excels contain extra columns, including unique IDs, page titles, person names, places or dates.
 * For every .xlsx there is a .tsv (tab separated value) in plain text Unicode UTF-8. This can be readily imported/exported to other data formats.
-* One page can be available under multiple URLs. For example, if you look into *[literatuurplein-adressenbank_03122019.tsv](data/adressenbank/literatuurplein-adressenbank_03122019.tsv)* you see three lines for *55	Ambo|Anthos uitgevers, Herengracht 499, Amsterdam	Noord-Holland*, as this page was available under 3 distinct URLs
-  - https://literatuurplein.nl/detail/organisatie/ambo-anthos-uitgevers/55
-  - https://www.literatuurplein.nl/detail/organisatie/ambo-anthos-uitgevers/55
-  - https://www.literatuurplein.nl/organisatie.jsp?orgId=55
+* One page can be available under multiple URLs. For example, if you look into *[literatuurplein-adressenbank_03122019.tsv](data/adressenbank/literatuurplein-adressenbank_03122019.tsv)* you see three lines for "55 Ambo|Anthos uitgevers, Herengracht 499, Amsterdam Noord-Holland", as this page was available under 3 distinct URLs:
+  - `https://literatuurplein.nl/detail/organisatie/ambo-anthos-uitgevers/55`
+  - `https://www.literatuurplein.nl/detail/organisatie/ambo-anthos-uitgevers/55`
+  - `https://www.literatuurplein.nl/organisatie.jsp?orgId=55`
+
   Because I archived URLs, *not* pages, this also means that this page has been archived under three distinct WBM URLs.
 * No overall file list is provided, you'll need to compose that yourself from the individual .xlsx/.tsv files if you need it.
 

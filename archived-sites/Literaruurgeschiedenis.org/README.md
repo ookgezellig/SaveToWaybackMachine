@@ -32,6 +32,7 @@ This folder contains URLs archived from [literatuurgeschiedenis.org](https://www
 ## Contents
 
 ### Main folder
+
 | File | Description |
 |------|-------------|
 | [literatuurgeschiedenis_logo.jpg](literatuurgeschiedenis_logo.jpg) | Website logo |

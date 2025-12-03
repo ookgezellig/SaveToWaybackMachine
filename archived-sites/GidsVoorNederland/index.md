@@ -30,6 +30,7 @@ This folder contains URLs archived from [gidsvoornederland.nl](https://www.gidsv
 ## Contents
 
 ### Main files
+
 | File | Description |
 |------|-------------|
 | [Input-Gids_TeArchiverenURLs_11112018_masterfile.txt](Input-Gids_TeArchiverenURLs_11112018_masterfile.txt) | Input list of URLs to be archived |
@@ -37,6 +38,7 @@ This folder contains URLs archived from [gidsvoornederland.nl](https://www.gidsv
 
 ### Subfolder: [OBwebsiteURLs](OBwebsiteURLs/)
 Contains URLs related to public library (Openbare Bibliotheek) websites:
+
 | File | Description |
 |------|-------------|
 | [Input-OBwebsiteURLS_master.txt](OBwebsiteURLs/Input-OBwebsiteURLS_master.txt) | Input list of public library URLs |
