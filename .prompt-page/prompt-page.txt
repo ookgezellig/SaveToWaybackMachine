@@ -29,24 +29,6 @@ Maak zonogig paralelle processen/agents aan om alle taken uuit te voeren en met 
 Ga nog geen commits op pushes maken!!
 Vraag me gerust om feedback!!
 
+========
 
-
-=====
-Als antwoord:
-  1. Bevestiging dat je akkoord gaat met het bijwerken van de Wikidata pagina ---> Ja, dat is goed.  Maak zelf maar een goede commit-message
-  2. Timing: Wil je dat ik de Wikidata pagina nu alvast voorbereid (met de nieuwe links), of wacht je liever tot na de GitHub push? --> Graag wachten tot na de push
-  3. Wikidata login: Om de pagina te bewerken heb ik mogelijk je Wikidata inloggegevens nodig, of je moet ingelogd zijn. Heb je een Wikidata account? --> Kun je ene broser openene zoadat   k in kan loggen? Of kan het via Oauth?
-
-==============
-- kun je de logs bijwerken
-- Kun je voor elke xls en tsv in die nieuw aangemaakte  /data/subfolder controleren of er geen formateeringsfouten inzitten, bv een komma of een ; die ergwns niet thuishoort. Zo ja, fix die.
-- Kun je per subfoder ook een README maken met inhoudelijke statitieken van deze tsv/excel bestanden, bv het aantal rijen etc. Of andere nuttige inzichten die je kint opdioen uit de data 
-- En kin je kijken of pers subfolder de xlsx en de tsv wel synchroon klopen, dus of ze dezelfde data bevattn, Raporteer afwijkinen in een rapport. 
-- Maak van al deze REDAMEs in de subfoldwers ook een overixcht in de hoofd-README in dfe Literatuurplein folder. 
-
-
-XXXXXXXXXXXXXXX
-Can you commit, not yey pudh, and agtet that , Can you update the /Savetowayback - links in https://www.wikidata.org/wiki/Wikidata:WikiProject_Dutch_Literary_Awards give the new
-
-To illustra the READMes for each individual achvide sites (and individual folders like 'persons', 'addresses' etc. for Literatuurplein), can you download a number of snapshots from the WayBack Machine,
-take a screenshot, and add those as galleries to all thoese READMEs. Lets do 6 per page.
+Some websites managed by the KB have been or will be discontinued. --> Some websites managed by the KB have been discontinued.

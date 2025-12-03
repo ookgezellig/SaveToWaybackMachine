@@ -32,7 +32,9 @@
       "mcp__mediawiki_by_professional-wiki__set-wiki",
       "mcp__mediawiki_by_professional-wiki__get-page",
       "mcp__browser-use__initialize_browser",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "mcp__browser-use__go_to_url",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

@@ -4,15 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <style>
+    * {
+      box-sizing: border-box;
+    }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
       line-height: 1.6;
-      max-width: 1200px;
+      max-width: 1000px;
       margin: 0 auto;
       padding: 20px;
       color: #333;
+      background: #fff;
+    }
+    a {
+      color: #0366d6;
     }
     .header {
       display: flex;
@@ -21,17 +27,20 @@
       border-bottom: 2px solid #e5e5e5;
       padding-bottom: 20px;
       margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 15px;
     }
     .header h1 {
       margin: 0;
-      font-size: 1.8em;
+      font-size: 1.5em;
     }
     .header h1 a {
       color: #333;
       text-decoration: none;
     }
     .header img {
-      height: 60px;
+      height: 50px;
+      width: auto;
     }
     .breadcrumb {
       background: #f8f9fa;
@@ -41,7 +50,6 @@
       font-size: 0.9em;
     }
     .breadcrumb a {
-      color: #0366d6;
       text-decoration: none;
     }
     .breadcrumb a:hover {
@@ -61,12 +69,14 @@
       margin: 30px 0;
     }
     .nav-card {
+      display: block;
       border: 1px solid #e1e4e8;
       border-radius: 8px;
       padding: 20px;
       text-decoration: none;
       color: inherit;
       transition: box-shadow 0.2s, transform 0.2s;
+      background: #fff;
     }
     .nav-card:hover {
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
@@ -75,28 +85,67 @@
     .nav-card h3 {
       margin: 0 0 10px 0;
       color: #0366d6;
+      font-size: 1.1em;
     }
     .nav-card p {
       margin: 0;
       color: #666;
       font-size: 0.9em;
     }
+    .content {
+      overflow-x: auto;
+    }
     .content img {
       max-width: 100%;
       height: auto;
+    }
+    .content h1 {
+      font-size: 1.8em;
+      margin-top: 0;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 10px;
+    }
+    .content h2 {
+      font-size: 1.4em;
+      margin-top: 30px;
     }
     table {
       width: 100%;
       border-collapse: collapse;
       margin: 20px 0;
+      font-size: 0.9em;
     }
     th, td {
       border: 1px solid #e1e4e8;
-      padding: 10px;
+      padding: 8px 12px;
       text-align: left;
+      vertical-align: top;
     }
     th {
       background: #f6f8fa;
+      font-weight: 600;
+    }
+    /* Image gallery tables */
+    table img {
+      display: block;
+      margin: 0 auto;
+    }
+    pre, code {
+      background: #f6f8fa;
+      border-radius: 3px;
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 0.85em;
+    }
+    pre {
+      padding: 15px;
+      overflow-x: auto;
+    }
+    code {
+      padding: 2px 5px;
+    }
+    pre code {
+      padding: 0;
+      background: none;
     }
     .footer {
       margin-top: 40px;
@@ -105,17 +154,25 @@
       color: #666;
       font-size: 0.85em;
     }
-    .back-link {
-      display: inline-block;
-      margin-bottom: 20px;
-      color: #0366d6;
-      text-decoration: none;
+    hr {
+      border: none;
+      border-top: 1px solid #e5e5e5;
+      margin: 30px 0;
     }
-    .back-link:hover {
-      text-decoration: underline;
-    }
-    .back-link::before {
-      content: "← ";
+    @media (max-width: 600px) {
+      .header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .nav-cards {
+        grid-template-columns: 1fr;
+      }
+      table {
+        font-size: 0.8em;
+      }
+      th, td {
+        padding: 6px 8px;
+      }
     }
   </style>
 </head>
