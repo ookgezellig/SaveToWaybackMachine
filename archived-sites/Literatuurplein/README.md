@@ -1,7 +1,19 @@
 # Saving Literatuurplein.nl to the Wayback Machine
-*Latest update: 02-12-2025*
+*Latest update: 03-12-2025*
 
 <img src="images/literatuurplein-homepage_04122019.JPG" width="500"/><br clear="all"/>
+
+## Wayback Machine Screenshots
+
+| Homepage | Thea Beckman | Canon |
+|:--------:|:------------:|:-----:|
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_thea_beckman.png" width="280"/> | <img src="images/wbm_canon_overzicht.png" width="280"/> |
+
+| Prijzen | Recensies | Nieuws |
+|:-------:|:---------:|:------:|
+| <img src="images/wbm_litprijzen.png" width="280"/> | <img src="images/wbm_recensies.png" width="280"/> | <img src="images/wbm_nieuwsarchief.png" width="280"/> |
+
+## About
 
 The site www.literatuurplein.nl has been phased out per 16 December 2019.
 

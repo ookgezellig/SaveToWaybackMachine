@@ -6,13 +6,13 @@
 
 ## Wayback Machine Screenshots
 
-| Homepage | 19e Eeuw |
-|:--------:|:--------:|
-| <img src="images/wbm_homepage.png" width="350"/> | <img src="images/wbm_19e_eeuw.png" width="350"/> |
+| Homepage | 16e Eeuw | 17e Eeuw |
+|:--------:|:--------:|:--------:|
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_16e_eeuw.png" width="280"/> | <img src="images/wbm_17e_eeuw.png" width="280"/> |
 
-| 20e Eeuw | Middeleeuwen |
-|:--------:|:------------:|
-| <img src="images/wbm_20e_eeuw.png" width="350"/> | <img src="images/wbm_middeleeuwen.png" width="350"/> |
+| 18e Eeuw | De Drukpers als Wapen | Gouden Tijden |
+|:--------:|:---------------------:|:-------------:|
+| <img src="images/wbm_18e_eeuw.png" width="280"/> | <img src="images/wbm_drukpers.png" width="280"/> | <img src="images/wbm_gouden_tijden.png" width="280"/> |
 
 ## About
 

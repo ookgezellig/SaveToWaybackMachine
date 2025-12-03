@@ -6,7 +6,7 @@
 
 | Homepage | Bibliotheken | Contact |
 |:--------:|:------------:|:-------:|
-| <img src="images/wbm_homepage.png" width="250"/> | <img src="images/wbm_bibliotheken.png" width="250"/> | <img src="images/wbm_contact.png" width="250"/> |
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_bibliotheken.png" width="280"/> | <img src="images/wbm_contact.png" width="280"/> |
 
 ## About
 

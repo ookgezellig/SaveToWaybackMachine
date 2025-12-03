@@ -2,9 +2,11 @@
 
 *Archived: October-November 2018*
 
-## Wayback Machine Screenshot
+## Wayback Machine Screenshots
 
-<img src="images/wbm_homepage.png" width="500"/>
+| Homepage | Roland Holst Prijs | AKO Literatuur Prijs |
+|:--------:|:------------------:|:--------------------:|
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_roland_holst.png" width="280"/> | <img src="images/wbm_ako_prijs.png" width="280"/> |
 
 ## About
 
