@@ -436,7 +436,7 @@ pre code {
 }
 
 .footer-section h4 {
-  color: var(--kb-gold);
+  color: #fff;
   margin-bottom: 15px;
   font-size: 1em;
   text-transform: uppercase;
@@ -454,13 +454,13 @@ pre code {
 }
 
 .footer a {
-  color: var(--kb-light-blue);
+  color: #fff;
   text-decoration: none;
 }
 
 .footer a:hover,
 .footer a:focus {
-  color: #fff;
+  color: #ccc;
   text-decoration: underline;
 }
 
@@ -489,13 +489,13 @@ pre code {
   justify-content: center;
   width: 36px;
   height: 36px;
-  background: var(--kb-gold-dark);
+  background: transparent;
   border-radius: 50%;
-  transition: background 0.2s;
+  transition: opacity 0.2s;
 }
 
 .social-icons a:hover {
-  background: var(--kb-gold);
+  opacity: 0.7;
 }
 
 .social-icons img {
@@ -519,10 +519,10 @@ pre code {
   max-width: 1200px;
   margin: 30px auto 0;
   padding-top: 20px;
-  border-top: 1px solid var(--kb-gold-dark);
+  border-top: 1px solid #333;
   text-align: center;
   font-size: 0.85em;
-  color: #ccc;
+  color: #fff;
 }
 
 .footer-bottom a {
@@ -714,14 +714,6 @@ hr {
 
   th, td {
     border-color: #444;
-  }
-
-  .footer {
-    background: #000;
-  }
-
-  .social-icons a {
-    background: var(--kb-gold-dark);
   }
 
   hr {
