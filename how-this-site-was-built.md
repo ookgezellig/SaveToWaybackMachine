@@ -26,13 +26,13 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 | Phase | Date | Time | Duration | Commits |
 |-------|------|------|----------|---------|
-| Repository reorganization | Dec 2 | 17:02 - 19:52 | 2h 50m | 3 |
-| Screenshot galleries | Dec 2 | (session 1) | 2h 06m | 5 |
-| GitHub Pages setup | Dec 2 | (session 1) | 40m | 4 |
-| UI refinements | Dec 2 | (session 1) | 46m | 6 |
-| Bug fixes & polish | Dec 2 | (session 1) | 48m | 5 |
-| KB huisstijl & compliance | Dec 3 | (session 2) | ~2h | 6 |
-| Code organization & footer | Dec 3 | (session 2) | ~1h | 4 |
+| [Repository reorganization](#phase-1-repository-reorganization-dec-2-session-1) | Dec 2 | 17:02 - 19:52 | 2h 50m | 3 |
+| [Screenshot galleries](#phase-2-screenshot-galleries-dec-2-session-1) | Dec 2 | (session 1) | 2h 06m | 5 |
+| [GitHub Pages setup](#phase-3-github-pages-setup-dec-2-session-1) | Dec 2 | (session 1) | 40m | 4 |
+| [UI refinements](#phase-4-ui-refinements-dec-2-session-1) | Dec 2 | (session 1) | 46m | 6 |
+| [Bug fixes & polish](#phase-5-bug-fixes--polish-dec-2-session-1) | Dec 2 | (session 1) | 48m | 5 |
+| [KB huisstijl & compliance](#phase-6-kb-huisstijl--compliance-dec-3-session-2) | Dec 3 | (session 2) | ~2h | 6 |
+| [Code organization & footer](#phase-7-code-organization--footer-redesign-dec-3-session-2) | Dec 3 | (session 2) | ~1h | 4 |
 | **Total** | | | **~10 hours** | **33 commits** |
 
 ---
