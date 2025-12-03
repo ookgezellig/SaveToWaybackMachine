@@ -30,7 +30,7 @@ Browse all websites archived by KB to the Wayback Machine.
     <h3>GidsVoorNederland.nl</h3>
     <p>Public library information section. 1,415 URLs archived in November 2018.</p>
   </a>
-  <a href="Literaruurgeschiedenis.org/" class="nav-card">
+  <a href="Literatuurgeschiedenis.org/" class="nav-card">
     <h3>Literatuurgeschiedenis.org</h3>
     <p>Dutch literary history covering various periods and authors. 464 URLs archived in March 2022.</p>
   </a>

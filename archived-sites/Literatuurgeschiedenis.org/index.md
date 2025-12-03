@@ -13,8 +13,6 @@ breadcrumb:
 
 *Archived: March 2022*
 
-**Note:** The folder name contains a typo ("Literaruurgeschiedenis" instead of "Literatuurgeschiedenis").
-
 ## Wayback Machine Screenshots
 
 | Homepage | 16e Eeuw | 17e Eeuw |

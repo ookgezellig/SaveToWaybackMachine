@@ -21,8 +21,8 @@ Some websites managed by the KB have been discontinued. To preserve their conten
     <h3>kb.nl</h3>
     <p>KB website archives - 7,633 URLs archived (Dec 2021 & Mar 2022)</p>
   </a>
-  <a href="archived-sites/Literaruurgeschiedenis.org/" class="nav-card">
-    <img src="archived-sites/Literaruurgeschiedenis.org/images/wbm_homepage.png" alt="Literatuurgeschiedenis.org screenshot">
+  <a href="archived-sites/Literatuurgeschiedenis.org/" class="nav-card">
+    <img src="archived-sites/Literatuurgeschiedenis.org/images/wbm_homepage.png" alt="Literatuurgeschiedenis.org screenshot">
     <h3>Literatuurgeschiedenis.org</h3>
     <p>Literary history - 464 URLs archived (Mar 2022)</p>
   </a>
@@ -78,13 +78,34 @@ Archive pages without running Python scripts:
 | Site | Archive Date | URLs |
 |------|--------------|------|
 | [kb.nl (new)](archived-sites/kb.nl/) | Mar 2022 | 1,914 |
-| [Literatuurgeschiedenis.org](archived-sites/Literaruurgeschiedenis.org/) | Mar 2022 | 464 |
+| [Literatuurgeschiedenis.org](archived-sites/Literatuurgeschiedenis.org/) | Mar 2022 | 464 |
 | [kb.nl (old)](archived-sites/kb.nl/) | Dec 2021 | 5,719 |
 | [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,599 |
 | [Gidsvoornederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | 1,415 |
 | [Literaireprijzen.nl](archived-sites/Literaireprijzen.nl/) | Oct 2018 | 452 |
 | [Lezenvoordelijst.nl](archived-sites/LezenVoorDeLijst/) | Aug 2018 | 12,456 |
 | [Leesplein.nl](archived-sites/Leesplein/) | Jun 2018 | 23,784 |
+
+---
+
+## How This Site Was Built
+
+This GitHub Pages site was created in a single intensive session (~7 hours) on December 2-3, 2025, through collaboration between a human curator at the KB and **Claude Opus 4.5**, an AI assistant.
+
+### Development Highlights
+
+1. **Repository Reorganization** - Transformed flat folder structure into clean hierarchy
+2. **Screenshot Galleries** - Captured 36 Wayback Machine screenshots using Python/Selenium
+3. **GitHub Pages** - Built responsive site with navigation, breadcrumbs, and lightbox
+4. **🎯 AI Vision Recognition** - Used multimodal AI to extract meaningful captions from screenshots
+
+### The AI Vision Breakthrough
+
+Generic captions like "Pagina 104937" and "Boek 277" were transformed into meaningful titles like "Training verplaatst" and "Annemarie Bon" by having the AI **visually read** each screenshot image and extract the actual page titles.
+
+📖 **[Read the full story →](how-this-site-was-built.md)**
+
+🗺️ **[View Sitemap](sitemap.md)**
 
 ---
 
