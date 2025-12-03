@@ -66,9 +66,10 @@ Complete overview of all pages on this site.
 
 ## Session logs
 
-| Log File | Description |
+| Log file | Description |
 |----------|-------------|
-| [.claude/logs/2025-12-02-session-1.md](https://github.com/ookgezellig/SaveToWaybackMachine/blob/main/.claude/logs/2025-12-02-session-1.md) | Full development session log |
+| [.claude/logs/2025-12-02-session-1.md](https://github.com/ookgezellig/SaveToWaybackMachine/blob/main/.claude/logs/2025-12-02-session-1.md) | Session 1: repository reorganization, screenshots, GitHub Pages |
+| [.claude/logs/2025-12-03-session-1.md](https://github.com/ookgezellig/SaveToWaybackMachine/blob/main/.claude/logs/2025-12-03-session-1.md) | Session 2: KB huisstijl, compliance, documentation refinements |
 
 ---
 
