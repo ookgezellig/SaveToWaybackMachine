@@ -4,13 +4,13 @@
 
 ## Wayback Machine Screenshots
 
-| Homepage | Juryrapport 2015 | Academica 2006 |
-|:--------:|:----------------:|:--------------:|
-| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_juryrapport_2015.png" width="280"/> | <img src="images/wbm_academica_2006.png" width="280"/> |
+| Homepage | Boek 277 | Boek 287 |
+|:--------:|:--------:|:--------:|
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_boek_277.png" width="280"/> | <img src="images/wbm_boek_287.png" width="280"/> |
 
-| Boek 2374 | Boek 2421 | Boek 246 |
-|:---------:|:---------:|:--------:|
-| <img src="images/wbm_boek_2374.png" width="280"/> | <img src="images/wbm_boek_2421.png" width="280"/> | <img src="images/wbm_boek_246.png" width="280"/> |
+| Boek 342 | Boek 372 | Boek 400 |
+|:--------:|:--------:|:--------:|
+| <img src="images/wbm_boek_342.png" width="280"/> | <img src="images/wbm_boek_372.png" width="280"/> | <img src="images/wbm_boek_400.png" width="280"/> |
 
 ## About
 

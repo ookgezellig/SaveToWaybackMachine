@@ -8,6 +8,10 @@
 |:--------:|:------------:|:-------:|
 | <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_bibliotheken.png" width="280"/> | <img src="images/wbm_contact.png" width="280"/> |
 
+| Over Ons | Help | Zoeken |
+|:--------:|:----:|:------:|
+| <img src="images/wbm_over_ons.png" width="280"/> | <img src="images/wbm_help.png" width="280"/> | <img src="images/wbm_zoeken.png" width="280"/> |
+
 ## About
 
 This folder contains URLs archived from [gidsvoornederland.nl](https://www.gidsvoornederland.nl/), specifically the section with information about public libraries in the Netherlands.

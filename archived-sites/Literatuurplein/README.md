@@ -5,13 +5,13 @@
 
 ## Wayback Machine Screenshots
 
-| Homepage | Thea Beckman | Canon |
-|:--------:|:------------:|:-----:|
-| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_thea_beckman.png" width="280"/> | <img src="images/wbm_canon_overzicht.png" width="280"/> |
+| Homepage | Auteur: Thea Beckman | Prijzen Overzicht |
+|:--------:|:--------------------:|:-----------------:|
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_auteur_thea_beckman.png" width="280"/> | <img src="images/wbm_prijzen_overzicht.png" width="280"/> |
 
-| Prijzen | Recensies | Nieuws |
-|:-------:|:---------:|:------:|
-| <img src="images/wbm_litprijzen.png" width="280"/> | <img src="images/wbm_recensies.png" width="280"/> | <img src="images/wbm_nieuwsarchief.png" width="280"/> |
+| Canon Overzicht | Nieuws Archief | Recensies |
+|:---------------:|:--------------:|:---------:|
+| <img src="images/wbm_canon_overzicht.png" width="280"/> | <img src="images/wbm_nieuws_archief.png" width="280"/> | <img src="images/wbm_recensies.png" width="280"/> |
 
 ## About
 

@@ -6,7 +6,11 @@
 
 | Homepage | Roland Holst Prijs | AKO Literatuur Prijs |
 |:--------:|:------------------:|:--------------------:|
-| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_roland_holst.png" width="280"/> | <img src="images/wbm_ako_prijs.png" width="280"/> |
+| <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_roland_holst_prijs.png" width="280"/> | <img src="images/wbm_ako_literatuur_prijs.png" width="280"/> |
+
+| Anna Bijns Prijs | Anne Frank Prijs | Archeon Jeugdboekenprijs |
+|:----------------:|:----------------:|:------------------------:|
+| <img src="images/wbm_anna_bijns_prijs.png" width="280"/> | <img src="images/wbm_anne_frank_prijs.png" width="280"/> | <img src="images/wbm_archeon_jeugdboekenprijs.png" width="280"/> |
 
 ## About
 

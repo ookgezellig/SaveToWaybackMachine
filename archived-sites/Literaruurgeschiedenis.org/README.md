@@ -12,7 +12,7 @@
 
 | 18e Eeuw | De Drukpers als Wapen | Gouden Tijden |
 |:--------:|:---------------------:|:-------------:|
-| <img src="images/wbm_18e_eeuw.png" width="280"/> | <img src="images/wbm_drukpers.png" width="280"/> | <img src="images/wbm_gouden_tijden.png" width="280"/> |
+| <img src="images/wbm_18e_eeuw.png" width="280"/> | <img src="images/wbm_drukpers_als_wapen.png" width="280"/> | <img src="images/wbm_gouden_tijden.png" width="280"/> |
 
 ## About
 
