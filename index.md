@@ -13,7 +13,7 @@ Some websites managed by the KB have been discontinued. To preserve their conten
 
 ---
 
-## Browse Archived Sites
+## Browse archived sites
 
 <div class="nav-cards">
   <a href="archived-sites/kb.nl/" class="nav-card">
@@ -73,14 +73,14 @@ Some websites managed by the KB have been discontinued. To preserve their conten
 
 ---
 
-## Alternative: Google Sheets Method
+## Alternative: Google Sheets method
 
 Archive pages without running Python scripts:
 - [archive.org/services/wayback-gsheets/](https://archive.org/services/wayback-gsheets/)
 
 ---
 
-## Quick Reference
+## Quick reference
 
 | Site | Archive Date | URLs |
 |------|--------------|------|
@@ -95,18 +95,18 @@ Archive pages without running Python scripts:
 
 ---
 
-## How This Site Was Built
+## How this site was built
 
 This GitHub Pages site was created in a single intensive session (~7 hours) on December 2-3, 2025, through collaboration between a human curator at the KB and **Claude Opus 4.5**, an AI assistant.
 
-### Development Highlights
+### Development highlights
 
 1. **Repository Reorganization** - Transformed flat folder structure into clean hierarchy
 2. **Screenshot Galleries** - Captured 36 Wayback Machine screenshots using Python/Selenium
 3. **GitHub Pages** - Built responsive site with navigation, breadcrumbs, and lightbox
 4. **🎯 AI Vision Recognition** - Used multimodal AI to extract meaningful captions from screenshots
 
-### The AI Vision Breakthrough
+### The AI vision breakthrough
 
 Generic captions like "Pagina 104937" and "Boek 277" were transformed into meaningful titles like "Training verplaatst" and "Annemarie Bon" by having the AI **visually read** each screenshot image and extract the actual page titles.
 

@@ -18,7 +18,7 @@ This page documents the accessibility features, privacy compliance, and technica
 
 This website is fully compliant with the **General Data Protection Regulation (GDPR)** and the Dutch **Algemene Verordening Gegevensbescherming (AVG)**.
 
-### Data Collection
+### Data collection
 
 | Aspect | Status |
 |--------|--------|
@@ -29,7 +29,7 @@ This website is fully compliant with the **General Data Protection Regulation (G
 | **Third-party services** | None embedded |
 | **User accounts** | Not applicable |
 
-### Privacy by Design
+### Privacy by design
 
 - **Static site**: This is a static GitHub Pages site with no server-side processing
 - **No databases**: No user data is stored in any database
@@ -42,7 +42,7 @@ This website is fully compliant with the **General Data Protection Regulation (G
 
 This website strives to meet **WCAG 2.1 Level AA** compliance, the European standard for web accessibility.
 
-### Implemented Features
+### Implemented features
 
 #### Perceivable (Principle 1)
 
@@ -73,7 +73,7 @@ This website strives to meet **WCAG 2.1 Level AA** compliance, the European stan
 |-----------|----------------|
 | **4.1 Compatible** | Valid HTML5, ARIA landmarks and labels |
 
-### Accessibility Features
+### Accessibility features
 
 - **Skip to main content** link for screen reader users
 - **Keyboard navigation** throughout the site
@@ -85,7 +85,7 @@ This website strives to meet **WCAG 2.1 Level AA** compliance, the European stan
 
 ---
 
-## Responsive Design
+## Responsive design
 
 The site is fully responsive across all device types and orientations.
 
@@ -98,12 +98,12 @@ The site is fully responsive across all device types and orientations.
 | **Mobile** | 401-600px | Single column, larger touch targets |
 | **Small mobile** | ≤ 400px | Compact layout, optimized typography |
 
-### Orientation Support
+### Orientation support
 
 - **Portrait mode**: Optimized single-column layout
 - **Landscape mode**: Adjusted lightbox sizing, compact captions
 
-### Touch Interactions
+### Touch interactions
 
 - **Swipe navigation** in image lightbox (left/right)
 - **Touch-friendly** button sizes (minimum 44px)
@@ -111,9 +111,9 @@ The site is fully responsive across all device types and orientations.
 
 ---
 
-## SEO Optimization
+## SEO optimization
 
-### Meta Tags
+### Meta tags
 
 | Tag | Purpose |
 |-----|---------|
@@ -123,17 +123,17 @@ The site is fully responsive across all device types and orientations.
 | `link canonical` | Canonical URLs |
 | `meta robots` | Index, follow directive |
 
-### Open Graph
+### Open graph
 
 Full Open Graph support for social media sharing:
 - `og:title`, `og:description`, `og:url`
 - `og:type`, `og:site_name`, `og:locale`
 
-### Twitter Cards
+### Twitter cards
 
 Twitter Card meta tags for Twitter sharing.
 
-### Schema.org Structured Data
+### Schema.org structured data
 
 JSON-LD structured data including:
 - **WebSite** schema with publisher information
@@ -144,7 +144,7 @@ JSON-LD structured data including:
 
 ## Security
 
-### Implemented Measures
+### Implemented measures
 
 | Measure | Implementation |
 |---------|----------------|
@@ -154,7 +154,7 @@ JSON-LD structured data including:
 | **No external scripts** | No third-party JavaScript |
 | **Content Security** | Static content only, no user input |
 
-### GitHub Pages Security
+### GitHub Pages security
 
 GitHub Pages provides:
 - Automatic HTTPS with valid SSL certificates
@@ -164,7 +164,7 @@ GitHub Pages provides:
 
 ---
 
-## Browser Support
+## Browser support
 
 | Browser | Version | Status |
 |---------|---------|--------|
@@ -175,7 +175,7 @@ GitHub Pages provides:
 | Mobile Safari | iOS 14+ | Full support |
 | Chrome Mobile | Android 10+ | Full support |
 
-### Progressive Enhancement
+### Progressive enhancement
 
 - Core content accessible without JavaScript
 - Enhanced features (lightbox) require JavaScript
@@ -183,7 +183,7 @@ GitHub Pages provides:
 
 ---
 
-## Dark Mode
+## Dark mode
 
 The site respects the user's system preference for dark mode:
 - Automatic detection via `prefers-color-scheme: dark`
@@ -192,7 +192,7 @@ The site respects the user's system preference for dark mode:
 
 ---
 
-## Print Styles
+## Print styles
 
 Optimized print stylesheet including:
 - Visible URLs after links
@@ -202,9 +202,9 @@ Optimized print stylesheet including:
 
 ---
 
-## Validation & Testing
+## Validation & testing
 
-### Tools Used
+### Tools used
 
 | Tool | Purpose |
 |------|---------|
@@ -214,7 +214,7 @@ Optimized print stylesheet including:
 | **axe DevTools** | Automated accessibility testing |
 | **Color Contrast Analyzer** | WCAG contrast verification |
 
-### Testing Checklist
+### Testing checklist
 
 - [x] HTML5 validation passes
 - [x] No WCAG 2.1 AA violations
@@ -227,7 +227,7 @@ Optimized print stylesheet including:
 
 ---
 
-## Known Limitations
+## Known limitations
 
 Due to GitHub Pages static hosting:
 
@@ -239,7 +239,7 @@ These are acceptable trade-offs for a documentation and archive reference site.
 
 ---
 
-## Compliance Standards Summary
+## Compliance standards summary
 
 | Standard | Level | Status |
 |----------|-------|--------|

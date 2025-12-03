@@ -11,18 +11,18 @@ Complete overview of all pages on this site.
 
 ---
 
-## Main Pages
+## Main pages
 
 - [🏠 Home](./index.md) - Main landing page
-- [📖 How This Site Was Built](./how-this-site-was-built.md) - Development story and timeline
+- [📖 How this site was built](./how-this-site-was-built.md) - Development story and timeline
 - [♿ Accessibility & Compliance](./compliance.md) - GDPR, WCAG 2.1, SEO documentation
 - [🗺️ Sitemap](./sitemap.md) - This page
 
 ---
 
-## Archived Sites
+## Archived sites
 
-### [📁 Archived Sites Overview](./archived-sites/)
+### [📁 Archived sites overview](./archived-sites/)
 
 | Site | Page | URLs Archived |
 |------|------|---------------|
@@ -42,7 +42,7 @@ Complete overview of all pages on this site.
 
 ## Scripts
 
-### [📁 Scripts Overview](./scripts/)
+### [📁 Scripts overview](./scripts/)
 
 | Script | Description |
 |--------|-------------|
@@ -52,7 +52,7 @@ Complete overview of all pages on this site.
 
 ---
 
-## Project Files
+## Project files
 
 | File | Description |
 |------|-------------|
@@ -63,7 +63,7 @@ Complete overview of all pages on this site.
 
 ---
 
-## Session Logs
+## Session logs
 
 | Log File | Description |
 |----------|-------------|
@@ -83,7 +83,7 @@ Complete overview of all pages on this site.
 
 ---
 
-## External Links
+## External links
 
 - [GitHub Repository](https://github.com/ookgezellig/SaveToWaybackMachine)
 - [Internet Archive Wayback Machine](https://web.archive.org)

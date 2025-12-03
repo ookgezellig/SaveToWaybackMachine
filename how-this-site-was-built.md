@@ -11,18 +11,18 @@ title: How This Site Was Built
 
 This GitHub Pages site was created in a single intensive session on December 2-3, 2025, through collaboration between a human curator at the KB (National Library of the Netherlands) and Claude Opus 4.5, an AI assistant by Anthropic.
 
-## Table of Contents
+## Table of contents
 
-- [Timeline Overview](#timeline-overview)
-- [Development Phases](#development-phases)
-- [Time Investment](#time-investment)
-- [Major Achievement: AI Vision Recognition](#major-achievement-ai-vision-recognition)
-- [Compliance & Accessibility](#compliance--accessibility)
-- [Full Session Log](#full-session-log)
+- [Timeline overview](#timeline-overview)
+- [Development phases](#development-phases)
+- [Time investment](#time-investment)
+- [Major achievement: AI vision recognition](#major-achievement-ai-vision-recognition)
+- [Compliance & accessibility](#compliance--accessibility)
+- [Full session log](#full-session-log)
 
 ---
 
-## Timeline Overview
+## Timeline overview
 
 | Phase | Time | Duration | Commits |
 |-------|------|----------|---------|
@@ -35,7 +35,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-## Development Phases
+## Development phases
 
 ### Phase 1: Repository Reorganization (17:02 - 19:52)
 
@@ -141,7 +141,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-## Time Investment
+## Time investment
 
 Based on git commit timestamps:
 
@@ -157,20 +157,20 @@ Based on git commit timestamps:
 
 ---
 
-## Major Achievement: AI Vision Recognition
+## Major achievement: AI vision recognition
 
-### 🎯 The Breakthrough
+### The breakthrough
 
 One of the most significant achievements of this project was using **AI multimodal vision** to automatically extract meaningful captions from screenshot images.
 
-### The Problem
+### The problem
 
 Gallery captions were generic and meaningless:
 - "Pagina 104937"
 - "Boek 277"
 - "Boek 287"
 
-### The Solution
+### The solution
 
 Claude Opus 4.5 used its native vision capabilities to:
 1. **Read each PNG screenshot directly** (not just filenames)
@@ -190,7 +190,7 @@ Claude Opus 4.5 used its native vision capabilities to:
 | Literatuurplein | Prijzen Overzicht | Literaire prijzen |
 | Literatuurplein | Canon Overzicht | Canon van de Nederlandse geschiedenis |
 
-### Why This Matters
+### Why this matters
 
 This demonstrates AI can:
 - **Replace manual data entry** for image cataloging
@@ -200,11 +200,11 @@ This demonstrates AI can:
 
 ---
 
-## Compliance & Accessibility
+## Compliance & accessibility
 
 As a final phase, comprehensive compliance testing and improvements were implemented to ensure the site meets European standards.
 
-### GDPR/AVG Compliance
+### GDPR/AVG compliance
 
 | Aspect | Status |
 |--------|--------|
@@ -225,7 +225,7 @@ As a final phase, comprehensive compliance testing and improvements were impleme
 | **Focus trapping** | Modal dialogs trap focus correctly |
 | **Reduced motion** | Respects `prefers-reduced-motion` |
 
-### Responsive Design
+### Responsive design
 
 | Breakpoint | Target |
 |------------|--------|
@@ -241,7 +241,7 @@ Additional features:
 - **High contrast** mode support via `prefers-contrast`
 - **Print styles** for clean printed output
 
-### SEO Optimization
+### SEO optimization
 
 | Feature | Implementation |
 |---------|----------------|
@@ -261,7 +261,7 @@ Additional features:
 
 ---
 
-## Full Session Log
+## Full session log
 
 The complete session log with all prompts, actions, and technical details is available at:
 
@@ -269,7 +269,7 @@ The complete session log with all prompts, actions, and technical details is ava
 
 ---
 
-## Tools Used
+## Tools used
 
 - **AI Assistant:** Claude Opus 4.5 (claude-opus-4-5-20251101) via Claude Code CLI
 - **Screenshot Capture:** Python + Selenium + Pillow
