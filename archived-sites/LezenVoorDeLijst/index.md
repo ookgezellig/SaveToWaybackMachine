@@ -15,8 +15,8 @@ breadcrumb:
 
 ## Wayback Machine Screenshots
 
-| Homepage | Pagina 104937 | Pagina 1296 |
-|:--------:|:-------------:|:-----------:|
+| Homepage | Pagina 104937 | Bibliothecarissen |
+|:--------:|:-------------:|:-----------------:|
 | <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_pagina_104937.png" width="280"/> | <img src="images/wbm_pagina_1296.png" width="280"/> |
 
 | Pagina 154224 | Pagina 168938 | Pagina 50393 |
