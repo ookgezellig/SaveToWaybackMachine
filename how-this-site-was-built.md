@@ -17,6 +17,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 - [Development phases](#development-phases)
 - [Time investment](#time-investment)
 - [Major achievement: AI vision recognition](#major-achievement-ai-vision-recognition)
+- [KB huisstijl implementation](#kb-huisstijl-implementation)
 - [Compliance & accessibility](#compliance--accessibility)
 - [Full session log](#full-session-log)
 
@@ -197,6 +198,58 @@ This demonstrates AI can:
 - **Extract structured metadata** from screenshot archives
 - **Improve accessibility** through automatic alt-text generation
 - **Scale to large archives** without human review of each image
+
+---
+
+## KB huisstijl implementation
+
+On December 3, 2025, the site design was updated to align with the official KB (Koninklijke Bibliotheek) house style guidelines. This ensures visual consistency with other KB digital properties.
+
+### Color palette
+
+The site now uses the official KB brand colors defined as CSS custom properties:
+
+| Color | Hex Code | CSS Variable | Usage |
+|-------|----------|--------------|-------|
+| Gold | #cba052 | `--kb-gold` | Header accent, card hover borders, footer headings |
+| Gold Dark | #8f6a2a | `--kb-gold-dark` | Social media icons background |
+| Blue | #407ec9 | `--kb-blue` | Link hover states, focus indicators |
+| Blue Dark | #001a70 | `--kb-blue-dark` | Primary links, footer background |
+| Pink | #ef6079 | `--kb-pink` | Dark mode visited links |
+| Pink Dark | #621323 | `--kb-pink-dark` | Visited links |
+| Beige | #ecdcc8 | `--kb-beige` | Breadcrumbs, table headers |
+| Teal | #9cdbd9 | `--kb-teal` | Available for accent use |
+| Light Blue | #96bded | `--kb-light-blue` | Footer link text |
+
+### Design elements updated
+
+| Element | Before | After |
+|---------|--------|-------|
+| Header border | Gray (#e5e5e5) | KB Gold (#cba052) |
+| Link color | Generic blue (#0056b3) | KB Dark Blue (#001a70) |
+| Link hover | Darker blue (#003d7a) | KB Blue (#407ec9) |
+| Breadcrumbs | Light gray (#f8f9fa) | KB Beige (#ecdcc8) |
+| Table headers | Light gray (#f6f8fa) | KB Beige (#ecdcc8) |
+| Card hover | Shadow only | Shadow + Gold border |
+| Footer background | Gray (#2d3748) | KB Dark Blue (#001a70) |
+| Footer headings | White | KB Gold (#cba052) |
+| Social icons | Gray (#4a5568) | KB Gold Dark (#8f6a2a) |
+
+### Implementation approach
+
+1. **CSS Custom Properties** - All KB colors are defined as CSS variables in `:root`, making future updates easy
+2. **Consistent hover states** - Gold accents appear on interaction throughout the site
+3. **Dark mode support** - KB colors are adapted for dark mode while maintaining brand recognition
+4. **WCAG compliance** - All color combinations maintain minimum 4.5:1 contrast ratio
+
+### Source materials
+
+The KB huisstijl implementation was based on:
+- Official KB Huisstijlportaal documentation
+- Color palette reference images
+- CSS variables from KB digital properties
+
+These materials are stored in `.kbhuisstijl-docs/` for reference.
 
 ---
 
