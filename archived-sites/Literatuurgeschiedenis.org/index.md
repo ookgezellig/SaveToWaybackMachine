@@ -2,18 +2,18 @@
 layout: default
 title: Literatuurgeschiedenis.org
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: Literatuurgeschiedenis.org
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
-# Literatuurgeschiedenis.org - Wayback Machine Archive
+# Literatuurgeschiedenis.org - Wayback Machine archive
 
 *Archived: March 2022*
 
-## Wayback Machine Screenshots
+## Wayback Machine screenshots
 
 | Homepage | 16e Eeuw | 17e Eeuw |
 |:--------:|:--------:|:--------:|

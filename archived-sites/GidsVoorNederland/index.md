@@ -2,18 +2,18 @@
 layout: default
 title: GidsVoorNederland.nl
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: GidsVoorNederland.nl
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
-# GidsVoorNederland - Wayback Machine Archive
+# GidsVoorNederland - Wayback Machine archive
 
 *Archived: November 2018*
 
-## Wayback Machine Screenshots
+## Wayback Machine screenshots
 
 | Homepage | Bibliotheken | Contact |
 |:--------:|:------------:|:-------:|

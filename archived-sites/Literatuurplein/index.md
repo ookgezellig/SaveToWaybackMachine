@@ -2,19 +2,19 @@
 layout: default
 title: Literatuurplein.nl
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: Literatuurplein.nl
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
 # Saving Literatuurplein.nl to the Wayback Machine
 *Latest update: 03-12-2025*
 
 <img src="images/literatuurplein-homepage_04122019.JPG" width="500"/><br clear="all"/>
 
-## Wayback Machine Screenshots
+## Wayback Machine screenshots
 
 | Homepage | Thea Beckman | Literaire prijzen |
 |:--------:|:------------:|:-----------------:|

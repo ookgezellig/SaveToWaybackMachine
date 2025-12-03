@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How This Site Was Built
+title: How this site was built
 ---
 
 [← Back to Home](./)
 
-# How This Site Was Built
+# How this site was built
 
-**An AI-Human Collaboration Journey**
+**An AI-human collaboration journey**
 
 This GitHub Pages site was created in a single intensive session on December 2-3, 2025, through collaboration between a human curator at the KB (National Library of the Netherlands) and Claude Opus 4.5, an AI assistant by Anthropic.
 

@@ -2,18 +2,18 @@
 layout: default
 title: Leesplein.nl
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: Leesplein.nl
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
-# Leesplein - Wayback Machine Archive
+# Leesplein - Wayback Machine archive
 
 *Archived: June 2018*
 
-## Wayback Machine Screenshots
+## Wayback Machine screenshots
 
 | Homepage | Annemarie Bon | Nanda Roep |
 |:--------:|:-------------:|:----------:|

@@ -2,18 +2,18 @@
 layout: default
 title: LezenVoorDeLijst.nl
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: LezenVoorDeLijst.nl
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
-# LezenVoorDeLijst - Wayback Machine Archive
+# LezenVoorDeLijst - Wayback Machine archive
 
 *Archived: July-August 2018*
 
-## Wayback Machine Screenshots
+## Wayback Machine screenshots
 
 | Homepage | Training verplaatst | De leesniveaus |
 |:--------:|:-------------------:|:--------------:|

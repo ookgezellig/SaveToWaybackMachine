@@ -2,14 +2,14 @@
 layout: default
 title: kb.nl
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: kb.nl
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
-# kb.nl - Wayback Machine Archive
+# kb.nl - Wayback Machine archive
 
 *Archived: December 2021 & March 2022*
 

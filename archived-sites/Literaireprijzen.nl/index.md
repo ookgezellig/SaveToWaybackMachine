@@ -2,18 +2,18 @@
 layout: default
 title: Literaireprijzen.nl
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: Literaireprijzen.nl
 ---
 
-[← Back to Archived Sites](../)
+[← Back to Archived sites](../)
 
-# Literaireprijzen.nl - Wayback Machine Archive
+# Literaireprijzen.nl - Wayback Machine archive
 
 *Archived: October-November 2018*
 
-## Wayback Machine Screenshots
+## Wayback Machine screenshots
 
 | Homepage | Roland Holst Prijs | AKO Literatuur Prijs |
 |:--------:|:------------------:|:--------------------:|

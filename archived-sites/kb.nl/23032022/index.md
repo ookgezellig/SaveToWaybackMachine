@@ -2,7 +2,7 @@
 layout: default
 title: kb.nl - March 2022
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: kb.nl
     url: /archived-sites/kb.nl/
@@ -11,7 +11,7 @@ breadcrumb:
 
 [← Back to kb.nl](../)
 
-# kb.nl Archive - March 2022 (New Site)
+# kb.nl archive - March 2022 (new site)
 
 *Archived: 23-24 March 2022*
 
@@ -53,7 +53,7 @@ Screenshots of the new websites (23 March 2022):
 |:-----------------:|:---------:|
 | <img src="images/collectieskbnl_nlpoeziepage_23032022.png" width="400"/> | <img src="images/collectieskbnl_dichterpage_23032022.png" width="400"/> |
 
-## Data Format
+## Data format
 
 The CSV/XLSX files contain Wayback Machine URLs in the format:
 ```

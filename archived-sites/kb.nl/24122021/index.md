@@ -2,7 +2,7 @@
 layout: default
 title: kb.nl - December 2021
 breadcrumb:
-  - title: Archived Sites
+  - title: Archived sites
     url: /archived-sites/
   - title: kb.nl
     url: /archived-sites/kb.nl/
@@ -11,7 +11,7 @@ breadcrumb:
 
 [← Back to kb.nl](../)
 
-# kb.nl Archive - December 2021 (Old Site)
+# kb.nl archive - December 2021 (old site)
 
 *Archived: 24 December 2021*
 
@@ -40,7 +40,7 @@ Screenshots of the old kb.nl website (28 December 2021):
 |:----------:|:-----------------:|
 | <img src="images/kbnl_themepage_28122021.png" width="400"/> | <img src="images/kbnl_organisationpage_28122021.png" width="400"/> |
 
-## Data Format
+## Data format
 
 The CSV/XLSX files contain Wayback Machine URLs in the format:
 ```
