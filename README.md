@@ -34,14 +34,14 @@ Some websites managed by the KB have been discontinued. To preserve their conten
 
 This project was transformed in December 2025 through an intensive AI-human collaboration:
 
-- **7+ hours** of development across Dec 2-3, 2025
-- **25+ commits** reorganizing and enhancing the repository
+- **10+ hours** of development across Dec 2-3, 2025
+- **33+ commits** reorganizing and enhancing the repository
 - Built using **Claude Opus 4.5** AI assistant via Claude Code CLI
 
 ### Key achievements
 
 1. **Repository reorganization** - Clean hierarchical folder structure
-2. **Screenshot galleries** - 36 Wayback Machine screenshots captured via Python/Selenium
+2. **Screenshot galleries** - 36 Wayback Machine screenshots captured via Python/Playwright
 3. **GitHub Pages website** - Responsive site with navigation, lightbox, and breadcrumbs
 4. **AI vision recognition** - Used multimodal AI to extract meaningful captions from screenshots
 5. **EU compliance** - GDPR, WCAG 2.1 Level AA, comprehensive accessibility features
