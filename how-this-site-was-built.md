@@ -57,7 +57,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 2: Screenshot galleries (Dec 2-3, session 1)
+### Phase 2: Screenshot galleries (Dec 2, session 1)
 
 **Goal:** Add visual screenshots from the Wayback Machine to showcase each archived site.
 
@@ -77,7 +77,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 3: GitHub Pages setup (Dec 2-3, session 1)
+### Phase 3: GitHub Pages setup (Dec 2, session 1)
 
 **Goal:** Create a browsable website from the repository documentation.
 
@@ -100,7 +100,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 4: UI refinements (Dec 2-3, session 1)
+### Phase 4: UI refinements (Dec 2, session 1)
 
 **Goal:** Polish the user interface and fix visual issues.
 
@@ -121,7 +121,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 5: Bug fixes & polish (Dec 2-3, session 1)
+### Phase 5: Bug fixes & polish (Dec 2, session 1)
 
 **Goal:** Fix remaining issues and improve content quality.
 
