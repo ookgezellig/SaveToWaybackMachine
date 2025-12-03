@@ -138,10 +138,13 @@
     table img {
       display: block;
       margin: 0 auto;
+    }
+    /* All clickable images in content area */
+    .content img:not(.nav-card img) {
       cursor: pointer;
       transition: opacity 0.2s;
     }
-    table img:hover {
+    .content img:not(.nav-card img):hover {
       opacity: 0.8;
     }
     /* Lightbox styles */
@@ -316,6 +319,7 @@
       let currentIndex = 0;
 
       function getCaption(img) {
+        // Try to get caption from table header
         const cell = img.closest('td');
         if (cell) {
           const cellIndex = Array.from(cell.parentNode.children).indexOf(cell);
@@ -327,7 +331,11 @@
             }
           }
         }
-        return '';
+        // Fall back to alt text or filename
+        if (img.alt) return img.alt;
+        const src = img.src;
+        const filename = src.substring(src.lastIndexOf('/') + 1);
+        return filename.replace(/\.[^/.]+$/, '').replace(/[-_]/g, ' ');
       }
 
       function showImage(index) {
@@ -341,8 +349,10 @@
       }
 
       function openLightbox(img) {
-        galleryImages = Array.from(document.querySelectorAll('table img'));
+        // Get all images in content area, excluding nav-card images
+        galleryImages = Array.from(document.querySelectorAll('.content img:not(.nav-card img)'));
         currentIndex = galleryImages.indexOf(img);
+        if (currentIndex === -1) currentIndex = 0;
         lightbox.classList.add('active');
         showImage(currentIndex);
         document.body.style.overflow = 'hidden';
@@ -353,8 +363,8 @@
         document.body.style.overflow = '';
       }
 
-      // Add click handlers to all images in tables (galleries)
-      document.querySelectorAll('table img').forEach(function(img) {
+      // Add click handlers to all images in content area (excluding nav-cards)
+      document.querySelectorAll('.content img:not(.nav-card img)').forEach(function(img) {
         img.addEventListener('click', function() {
           openLightbox(this);
         });
