@@ -48,7 +48,7 @@ This website strives to meet **WCAG 2.1 Level AA** compliance, the European stan
 
 | Guideline | Implementation |
 |-----------|----------------|
-| **1.1 Text Alternatives** | All images have descriptive `alt` attributes |
+| **1.1 Text alternatives** | All images have descriptive `alt` attributes |
 | **1.3 Adaptable** | Semantic HTML5 structure (header, nav, main, footer) |
 | **1.4 Distinguishable** | Minimum 4.5:1 color contrast ratio for text |
 
@@ -56,9 +56,9 @@ This website strives to meet **WCAG 2.1 Level AA** compliance, the European stan
 
 | Guideline | Implementation |
 |-----------|----------------|
-| **2.1 Keyboard Accessible** | All interactive elements keyboard-navigable |
+| **2.1 Keyboard accessible** | All interactive elements keyboard-navigable |
 | **2.4 Navigable** | Skip-to-content link, breadcrumb navigation |
-| **2.4.7 Focus Visible** | Clear focus indicators (3px blue outline) |
+| **2.4.7 Focus visible** | Clear focus indicators (3px blue outline) |
 
 #### Understandable (Principle 3)
 

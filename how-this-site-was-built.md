@@ -26,20 +26,20 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 | Phase | Date | Time | Duration | Commits |
 |-------|------|------|----------|---------|
-| Repository Reorganization | Dec 2 | 17:02 - 19:52 | 2h 50m | 3 |
-| Screenshot Galleries | Dec 3 | 00:28 - 02:34 | 2h 06m | 5 |
-| GitHub Pages Setup | Dec 3 | 02:34 - 03:14 | 40m | 4 |
-| UI Refinements | Dec 3 | 03:14 - 04:00 | 46m | 6 |
-| Bug Fixes & Polish | Dec 3 | 04:00 - 04:48 | 48m | 5 |
-| KB Huisstijl & Compliance | Dec 3 | (session 2) | ~2h | 6 |
-| Code Organization & Footer | Dec 3 | (session 2) | ~1h | 4 |
+| Repository reorganization | Dec 2 | 17:02 - 19:52 | 2h 50m | 3 |
+| Screenshot galleries | Dec 3 | 00:28 - 02:34 | 2h 06m | 5 |
+| GitHub Pages setup | Dec 3 | 02:34 - 03:14 | 40m | 4 |
+| UI refinements | Dec 3 | 03:14 - 04:00 | 46m | 6 |
+| Bug fixes & polish | Dec 3 | 04:00 - 04:48 | 48m | 5 |
+| KB huisstijl & compliance | Dec 3 | (session 2) | ~2h | 6 |
+| Code organization & footer | Dec 3 | (session 2) | ~1h | 4 |
 | **Total** | | | **~10 hours** | **33 commits** |
 
 ---
 
 ## Development phases
 
-### Phase 1: Repository Reorganization (Dec 2, session 1)
+### Phase 1: Repository reorganization (Dec 2, session 1)
 
 **Goal:** Transform a flat, disorganized folder structure into a clean, navigable repository.
 
@@ -57,7 +57,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 2: Screenshot Galleries (Dec 2-3, session 1)
+### Phase 2: Screenshot galleries (Dec 2-3, session 1)
 
 **Goal:** Add visual screenshots from the Wayback Machine to showcase each archived site.
 
@@ -77,7 +77,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 3: GitHub Pages Setup (Dec 2-3, session 1)
+### Phase 3: GitHub Pages setup (Dec 2-3, session 1)
 
 **Goal:** Create a browsable website from the repository documentation.
 
@@ -100,7 +100,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 4: UI Refinements (Dec 2-3, session 1)
+### Phase 4: UI refinements (Dec 2-3, session 1)
 
 **Goal:** Polish the user interface and fix visual issues.
 
@@ -121,7 +121,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 5: Bug Fixes & Polish (Dec 2-3, session 1)
+### Phase 5: Bug fixes & polish (Dec 2-3, session 1)
 
 **Goal:** Fix remaining issues and improve content quality.
 
@@ -143,7 +143,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 6: KB Huisstijl & Compliance (Dec 3, session 2)
+### Phase 6: KB huisstijl & compliance (Dec 3, session 2)
 
 **Goal:** Apply official KB brand colors and add comprehensive compliance documentation.
 
@@ -160,7 +160,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 7: Code Organization & Footer Redesign (Dec 3, session 2)
+### Phase 7: Code organization & footer redesign (Dec 3, session 2)
 
 **Goal:** Improve code maintainability and refine footer design.
 
