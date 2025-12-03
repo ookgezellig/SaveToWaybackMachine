@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Accessibility & compliance
-description: Accessibility statement and compliance documentation for the SaveToWaybackMachine website
+title: Accessibility, privacy & licensing
+description: Accessibility statement, privacy compliance, and licensing documentation for the SaveToWaybackMachine website
 breadcrumb:
-  - title: Accessibility & compliance
+  - title: Accessibility, privacy & licensing
 ---
 
 [← Back to Home](./)
 
-# Accessibility & compliance
+# Accessibility, privacy & licensing
 
 This page documents the accessibility features, privacy compliance, and technical standards implemented on this website.
 

@@ -25,14 +25,16 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ## Timeline overview
 
-| Phase | Time | Duration | Commits |
-|-------|------|----------|---------|
-| Repository Reorganization | 17:02 - 19:52 | 2h 50m | 3 |
-| Screenshot Galleries | 00:28 - 02:34 | 2h 06m | 5 |
-| GitHub Pages Setup | 02:34 - 03:14 | 40m | 4 |
-| UI Refinements | 03:14 - 04:00 | 46m | 6 |
-| Bug Fixes & Polish | 04:00 - 04:48 | 48m | 5 |
-| **Total** | | **~7 hours** | **23 commits** |
+| Phase | Date | Time | Duration | Commits |
+|-------|------|------|----------|---------|
+| Repository Reorganization | Dec 2 | 17:02 - 19:52 | 2h 50m | 3 |
+| Screenshot Galleries | Dec 3 | 00:28 - 02:34 | 2h 06m | 5 |
+| GitHub Pages Setup | Dec 3 | 02:34 - 03:14 | 40m | 4 |
+| UI Refinements | Dec 3 | 03:14 - 04:00 | 46m | 6 |
+| Bug Fixes & Polish | Dec 3 | 04:00 - 04:48 | 48m | 5 |
+| KB Huisstijl & Compliance | Dec 3 | (session 2) | ~2h | 6 |
+| Code Organization & Footer | Dec 3 | (session 3) | ~1h | 4 |
+| **Total** | | | **~10 hours** | **33 commits** |
 
 ---
 
@@ -142,19 +144,37 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-## Time investment
+### Phase 6: KB Huisstijl & Compliance (Dec 3, session 2)
 
-Based on git commit timestamps:
+**Goal:** Apply official KB brand colors and add comprehensive compliance documentation.
 
-| Date | Start | End | Duration |
-|------|-------|-----|----------|
-| 2025-12-02 | 17:02 | 19:52 | 2h 50m |
-| 2025-12-03 | 00:28 | 04:48 | 4h 20m |
-| **Total** | | | **~7 hours 10 minutes** |
+**Actions:**
+- Implemented KB huisstijl color palette as CSS variables
+- Updated all design elements (header, links, footer, cards)
+- Created full WCAG 2.1 AA accessibility compliance
+- Added GDPR/AVG compliance documentation
+- Implemented dark mode with KB colors
+- Added comprehensive compliance.md page
 
-**Commits:** 23 total
-**Files changed:** 100+
-**Lines of code:** ~3,000
+**Commits:**
+24-29. Various commits for KB huisstijl colors, compliance page, accessibility features
+
+---
+
+### Phase 7: Code Organization & Footer Redesign (Dec 3, session 3)
+
+**Goal:** Improve code maintainability and refine footer design.
+
+**Actions:**
+- Split inline CSS (~760 lines) into `assets/css/main.css`
+- Split inline JavaScript (~200 lines) into `assets/js/lightbox.js`
+- Redesigned footer: black background, white text, white KB logo
+- Removed gold circles from social media icons
+
+**Commits:**
+30. `e49f31f` - Split CSS and JS into separate files
+31. `7536c28` - Fix footer styling: all white text, no gold circles, white logo
+32-33. Documentation updates
 
 ---
 
@@ -211,15 +231,15 @@ The site now uses the official KB brand colors defined as CSS custom properties:
 
 | Color | Hex Code | CSS Variable | Usage |
 |-------|----------|--------------|-------|
-| Gold | #cba052 | `--kb-gold` | Header accent, card hover borders, footer headings |
-| Gold Dark | #8f6a2a | `--kb-gold-dark` | Social media icons background |
+| Gold | #cba052 | `--kb-gold` | Header accent, card hover borders |
+| Gold Dark | #8f6a2a | `--kb-gold-dark` | Accent color |
 | Blue | #407ec9 | `--kb-blue` | Link hover states, focus indicators |
-| Blue Dark | #001a70 | `--kb-blue-dark` | Primary links, footer background |
+| Blue Dark | #001a70 | `--kb-blue-dark` | Primary links |
 | Pink | #ef6079 | `--kb-pink` | Dark mode visited links |
 | Pink Dark | #621323 | `--kb-pink-dark` | Visited links |
 | Beige | #ecdcc8 | `--kb-beige` | Breadcrumbs, table headers |
 | Teal | #9cdbd9 | `--kb-teal` | Available for accent use |
-| Light Blue | #96bded | `--kb-light-blue` | Footer link text |
+| Light Blue | #96bded | `--kb-light-blue` | Accent color |
 
 ### Design elements updated
 
@@ -231,9 +251,10 @@ The site now uses the official KB brand colors defined as CSS custom properties:
 | Breadcrumbs | Light gray (#f8f9fa) | KB Beige (#ecdcc8) |
 | Table headers | Light gray (#f6f8fa) | KB Beige (#ecdcc8) |
 | Card hover | Shadow only | Shadow + Gold border |
-| Footer background | Gray (#2d3748) | KB Dark Blue (#001a70) |
-| Footer headings | White | KB Gold (#cba052) |
-| Social icons | Gray (#4a5568) | KB Gold Dark (#8f6a2a) |
+| Footer background | Gray (#2d3748) | Black (#000) |
+| Footer text & headings | Varied | White (#fff) |
+| Footer logo | Color KB logo | White KB logo |
+| Social icons | With background circles | Transparent (icon only) |
 
 ### Implementation approach
 
@@ -310,7 +331,7 @@ Additional features:
 - **No external scripts** - all JavaScript inline
 - **Static content only** - no server-side processing
 
-📄 **[Full Compliance Documentation →](compliance.md)**
+📄 **[Full Accessibility, Privacy & Licensing Documentation →](compliance.md)**
 
 ---
 
