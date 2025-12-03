@@ -1,0 +1,26 @@
+.row .image-dimensions-input.show {
+  margin-top: 1.5em;
+}
+
+.row .image-dimensions-input.hide {
+  display: none;
+}
+
+.row .image-dimensions-input p {
+  margin-top: 40px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.form-item-constrain-proportions {
+  margin-top: 20px;
+}
+
+.form-item-constrain-proportions #edit-constrain-proportions {
+  margin-left: 0;
+}
+
+.form-item-constrain-proportions label {
+    padding-top: 10px;
+    margin-left: 50px;
+}

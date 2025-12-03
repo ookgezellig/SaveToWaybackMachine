@@ -57,9 +57,25 @@
       }
     }
 
+    /* KB Huisstijl Color Variables */
+    :root {
+      --kb-gold: #cba052;
+      --kb-gold-dark: #8f6a2a;
+      --kb-blue: #407ec9;
+      --kb-blue-dark: #001a70;
+      --kb-pink: #ef6079;
+      --kb-pink-dark: #621323;
+      --kb-beige: #ecdcc8;
+      --kb-teal: #9cdbd9;
+      --kb-light-blue: #96bded;
+      --kb-text: #222330;
+      --kb-text-light: #545560;
+      --kb-bg-light: #f5f5f5;
+    }
+
     /* WCAG 2.1 compliant focus styles */
     :focus {
-      outline: 3px solid #0366d6;
+      outline: 3px solid var(--kb-blue);
       outline-offset: 2px;
     }
 
@@ -68,7 +84,7 @@
     }
 
     :focus-visible {
-      outline: 3px solid #0366d6;
+      outline: 3px solid var(--kb-blue);
       outline-offset: 2px;
     }
 
@@ -77,7 +93,7 @@
       position: absolute;
       top: -40px;
       left: 0;
-      background: #0366d6;
+      background: var(--kb-blue-dark);
       color: #fff;
       padding: 8px 16px;
       z-index: 100;
@@ -103,31 +119,31 @@
       max-width: 1000px;
       margin: 0 auto;
       padding: 20px;
-      color: #1a1a1a;
+      color: var(--kb-text);
       background: #fff;
       font-size: 100%;
     }
 
-    /* WCAG AA compliant link colors (4.5:1 contrast ratio) */
+    /* WCAG AA compliant link colors using KB blue */
     a {
-      color: #0056b3;
+      color: var(--kb-blue-dark);
       text-decoration: underline;
     }
 
     a:hover, a:focus {
-      color: #003d7a;
+      color: var(--kb-blue);
       text-decoration: none;
     }
 
     a:visited {
-      color: #551a8b;
+      color: var(--kb-pink-dark);
     }
 
     .header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      border-bottom: 2px solid #e5e5e5;
+      border-bottom: 3px solid var(--kb-gold);
       padding-bottom: 20px;
       margin-bottom: 20px;
       flex-wrap: wrap;
@@ -140,12 +156,13 @@
     }
 
     .header h1 a {
-      color: #1a1a1a;
+      color: var(--kb-text);
       text-decoration: none;
     }
 
     .header h1 a:hover,
     .header h1 a:focus {
+      color: var(--kb-blue-dark);
       text-decoration: underline;
     }
 
@@ -156,7 +173,7 @@
 
     /* Breadcrumb with ARIA support */
     .breadcrumb {
-      background: #f8f9fa;
+      background: var(--kb-beige);
       padding: 10px 15px;
       border-radius: 5px;
       margin-bottom: 20px;
@@ -211,7 +228,7 @@
       padding: 20px;
       text-decoration: none;
       color: inherit;
-      transition: box-shadow 0.2s, transform 0.2s;
+      transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
       background: #fff;
     }
 
@@ -219,17 +236,23 @@
     .nav-card:focus {
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
       transform: translateY(-2px);
+      border-color: var(--kb-gold);
     }
 
     .nav-card h3 {
       margin: 0 0 10px 0;
-      color: #0056b3;
+      color: var(--kb-blue-dark);
       font-size: 1.1em;
+    }
+
+    .nav-card:hover h3,
+    .nav-card:focus h3 {
+      color: var(--kb-blue);
     }
 
     .nav-card p {
       margin: 0;
-      color: #4a4a4a;
+      color: var(--kb-text-light);
       font-size: 0.9em;
     }
 
@@ -294,13 +317,13 @@
     }
 
     th {
-      background: #f6f8fa;
+      background: var(--kb-beige);
       font-weight: 600;
     }
 
     /* WCAG: Ensure table has proper scope */
     th[scope="col"] {
-      background: #f6f8fa;
+      background: var(--kb-beige);
     }
 
     /* Image gallery tables */
@@ -445,7 +468,7 @@
     .footer {
       margin-top: 40px;
       padding: 40px 20px 20px;
-      background: #2d3748;
+      background: var(--kb-blue-dark);
       color: #e0e0e0;
       font-size: 0.9em;
     }
@@ -459,7 +482,7 @@
     }
 
     .footer-section h4 {
-      color: #fff;
+      color: var(--kb-gold);
       margin-bottom: 15px;
       font-size: 1em;
       text-transform: uppercase;
@@ -477,7 +500,7 @@
     }
 
     .footer a {
-      color: #a0c4ff;
+      color: var(--kb-light-blue);
       text-decoration: none;
     }
 
@@ -511,13 +534,13 @@
       justify-content: center;
       width: 36px;
       height: 36px;
-      background: #4a5568;
+      background: var(--kb-gold-dark);
       border-radius: 50%;
       transition: background 0.2s;
     }
 
     .social-icons a:hover {
-      background: #0056b3;
+      background: var(--kb-gold);
     }
 
     .social-icons img {
@@ -541,14 +564,14 @@
       max-width: 1200px;
       margin: 30px auto 0;
       padding-top: 20px;
-      border-top: 1px solid #4a5568;
+      border-top: 1px solid var(--kb-gold-dark);
       text-align: center;
       font-size: 0.85em;
-      color: #888;
+      color: #a0a0a0;
     }
 
     .footer-bottom a {
-      color: #a0c4ff;
+      color: var(--kb-light-blue);
     }
 
     hr {
@@ -679,21 +702,31 @@
 
     /* Dark mode support (optional enhancement) */
     @media (prefers-color-scheme: dark) {
+      :root {
+        --kb-text: #e0e0e0;
+        --kb-text-light: #b0b0b0;
+        --kb-bg-light: #2a2a2a;
+      }
+
       body {
         background: #1a1a1a;
         color: #e0e0e0;
       }
 
       a {
-        color: #6db3f2;
+        color: var(--kb-light-blue);
       }
 
       a:visited {
-        color: #b8a2d3;
+        color: var(--kb-pink);
       }
 
       .header h1 a {
         color: #e0e0e0;
+      }
+
+      .header {
+        border-bottom-color: var(--kb-gold-dark);
       }
 
       .nav-card {
@@ -701,8 +734,13 @@
         border-color: #444;
       }
 
+      .nav-card:hover,
+      .nav-card:focus {
+        border-color: var(--kb-gold);
+      }
+
       .nav-card h3 {
-        color: #6db3f2;
+        color: var(--kb-light-blue);
       }
 
       .nav-card p {
@@ -710,11 +748,13 @@
       }
 
       .breadcrumb {
-        background: #2a2a2a;
+        background: var(--kb-gold-dark);
+        color: #fff;
       }
 
       th {
-        background: #2a2a2a;
+        background: var(--kb-gold-dark);
+        color: #fff;
       }
 
       th, td {
@@ -722,15 +762,15 @@
       }
 
       .footer {
-        background: #0d0d0d;
+        background: #0a0a1a;
       }
 
       .footer-section h4 {
-        color: #e0e0e0;
+        color: var(--kb-gold);
       }
 
       .social-icons a {
-        background: #222;
+        background: var(--kb-gold-dark);
       }
 
       hr {

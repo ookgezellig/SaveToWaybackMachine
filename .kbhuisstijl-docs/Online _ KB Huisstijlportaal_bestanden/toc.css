@@ -1,0 +1,37 @@
+a.back-to-top {
+  display: none;
+  float: right;
+  font-size: 0.7rem;
+}
+a.back-to-top.is-visible {
+  display: block;
+}
+
+.toc-js-container.sticky {
+  position: sticky;
+}
+
+.toc-js-container {
+  display: none;
+  overflow-y: auto;
+  max-height: 100vh;
+}
+.toc-js-container.is-visible {
+  display: block;
+}
+
+.toc-js li[aria-expanded="false"] > .collapsible {
+  display: none;
+}
+
+.toc-js li[aria-expanded="false"]::before {
+  content: "▶ ";
+}
+
+.toc-js li[aria-expanded="true"]::before {
+  content: "▼ ";
+}
+
+.toc-js .collapsible {
+  cursor: default;
+}
