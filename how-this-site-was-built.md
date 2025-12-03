@@ -32,7 +32,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 | UI Refinements | Dec 3 | 03:14 - 04:00 | 46m | 6 |
 | Bug Fixes & Polish | Dec 3 | 04:00 - 04:48 | 48m | 5 |
 | KB Huisstijl & Compliance | Dec 3 | (session 2) | ~2h | 6 |
-| Code Organization & Footer | Dec 3 | (session 3) | ~1h | 4 |
+| Code Organization & Footer | Dec 3 | (session 2) | ~1h | 4 |
 | **Total** | | | **~10 hours** | **33 commits** |
 
 ---
@@ -77,7 +77,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 3: GitHub Pages Setup (Dec 3, session 1)
+### Phase 3: GitHub Pages Setup (Dec 2-3, session 1)
 
 **Goal:** Create a browsable website from the repository documentation.
 
@@ -100,7 +100,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 4: UI Refinements (Dec 3, session 1)
+### Phase 4: UI Refinements (Dec 2-3, session 1)
 
 **Goal:** Polish the user interface and fix visual issues.
 
@@ -121,7 +121,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 5: Bug Fixes & Polish (Dec 3, session 1)
+### Phase 5: Bug Fixes & Polish (Dec 2-3, session 1)
 
 **Goal:** Fix remaining issues and improve content quality.
 
@@ -160,7 +160,7 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 ---
 
-### Phase 7: Code Organization & Footer Redesign (Dec 3, session 3)
+### Phase 7: Code Organization & Footer Redesign (Dec 3, session 2)
 
 **Goal:** Improve code maintainability and refine footer design.
 
