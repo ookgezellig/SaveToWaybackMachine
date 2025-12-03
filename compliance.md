@@ -136,8 +136,8 @@ Twitter Card meta tags for Twitter sharing.
 ### Schema.org structured data
 
 JSON-LD structured data including:
-- **WebSite** schema with publisher information
-- **BreadcrumbList** schema for navigation
+- **Website** schema with publisher information
+- **Breadcrumb list** schema for navigation
 - **Organization** schema for KB
 
 ---

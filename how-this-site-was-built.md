@@ -40,7 +40,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ## Development phases
 
-### Phase 1: Repository Reorganization (17:02 - 19:52)
+### Phase 1: Repository Reorganization (Dec 2, session 1)
 
 **Goal:** Transform a flat, disorganized folder structure into a clean, navigable repository.
 
@@ -58,7 +58,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-### Phase 2: Screenshot Galleries (00:28 - 02:34)
+### Phase 2: Screenshot Galleries (Dec 2-3, session 1)
 
 **Goal:** Add visual screenshots from the Wayback Machine to showcase each archived site.
 
@@ -78,7 +78,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-### Phase 3: GitHub Pages Setup (02:34 - 03:14)
+### Phase 3: GitHub Pages Setup (Dec 3, session 1)
 
 **Goal:** Create a browsable website from the repository documentation.
 
@@ -101,7 +101,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-### Phase 4: UI Refinements (03:14 - 04:00)
+### Phase 4: UI Refinements (Dec 3, session 1)
 
 **Goal:** Polish the user interface and fix visual issues.
 
@@ -122,7 +122,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 
 ---
 
-### Phase 5: Bug Fixes & Polish (04:00 - 04:48)
+### Phase 5: Bug Fixes & Polish (Dec 3, session 1)
 
 **Goal:** Fix remaining issues and improve content quality.
 
@@ -322,7 +322,7 @@ Additional features:
 | **Meta tags** | Title, description, keywords, canonical |
 | **Open Graph** | Full social media sharing support |
 | **Twitter Cards** | Twitter sharing optimization |
-| **Schema.org** | JSON-LD structured data (WebSite, BreadcrumbList, Organization) |
+| **Schema.org** | JSON-LD structured data (Website, Breadcrumb list, Organization) |
 
 ### Security
 
@@ -346,10 +346,10 @@ The complete session log with all prompts, actions, and technical details is ava
 ## Tools used
 
 - **AI Assistant:** Claude Opus 4.5 (claude-opus-4-5-20251101) via Claude Code CLI
-- **Screenshot Capture:** Python + Selenium + Pillow
+- **Screenshot Capture:** Python + Playwright + Pillow
 - **Static Site Generator:** Jekyll (GitHub Pages)
 - **Version Control:** Git + GitHub
-- **Browser Testing:** Chrome (headless)
+- **Browser Automation:** Playwright (Chromium)
 
 ---
 
