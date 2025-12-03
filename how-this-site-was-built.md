@@ -15,7 +15,6 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 
 - [Timeline overview](#timeline-overview)
 - [Development phases](#development-phases)
-- [Time investment](#time-investment)
 - [Major achievement: AI vision recognition](#major-achievement-ai-vision-recognition)
 - [KB huisstijl implementation](#kb-huisstijl-implementation)
 - [Compliance & accessibility](#compliance--accessibility)
