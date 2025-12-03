@@ -9,7 +9,7 @@ Scripts and data for archiving KB-managed websites to the Internet Archive's Way
 
 ## Purpose
 
-Some websites managed by the KB have been or will be discontinued. To preserve their content for Wikipedia sourcing and cultural heritage purposes, the KB actively archives websites to the Wayback Machine at [web.archive.org](https://web.archive.org).
+Some websites managed by the KB have been discontinued. To preserve their content for Wikipedia sourcing and cultural heritage purposes, the KB actively archives websites to the Wayback Machine at [web.archive.org](https://web.archive.org).
 
 ---
 
@@ -70,14 +70,14 @@ Archive pages without running Python scripts:
 
 | Site | Archive Date | URLs |
 |------|--------------|------|
-| [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,599 |
-| [Leesplein.nl](archived-sites/Leesplein/) | Jun 2018 | 23,784 |
-| [Lezenvoordelijst.nl](archived-sites/LezenVoorDeLijst/) | Aug 2018 | 12,456 |
-| [kb.nl (old)](archived-sites/kb.nl/) | Dec 2021 | 5,719 |
 | [kb.nl (new)](archived-sites/kb.nl/) | Mar 2022 | 1,914 |
-| [Gidsvoornederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | 1,415 |
 | [Literatuurgeschiedenis.org](archived-sites/Literaruurgeschiedenis.org/) | Mar 2022 | 464 |
+| [kb.nl (old)](archived-sites/kb.nl/) | Dec 2021 | 5,719 |
+| [Literatuurplein.nl](archived-sites/Literatuurplein/) | Dec 2019 | 69,599 |
+| [Gidsvoornederland.nl](archived-sites/GidsVoorNederland/) | Nov 2018 | 1,415 |
 | [Literaireprijzen.nl](archived-sites/Literaireprijzen.nl/) | Oct 2018 | 452 |
+| [Lezenvoordelijst.nl](archived-sites/LezenVoorDeLijst/) | Aug 2018 | 12,456 |
+| [Leesplein.nl](archived-sites/Leesplein/) | Jun 2018 | 23,784 |
 
 ---
 
