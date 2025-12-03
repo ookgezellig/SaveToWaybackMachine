@@ -9,7 +9,7 @@ title: How this site was built
 
 **An AI-human collaboration journey**
 
-This GitHub Pages site was created in a single intensive session on December 2-3, 2025, through collaboration between a human curator at the KB (National Library of the Netherlands) and Claude Opus 4.5, an AI assistant by Anthropic.
+This GitHub Pages site was created in multiple intensive sessions on December 2-3, 2025, through collaboration between a human curator at the KB (National Library of the Netherlands) and Claude Opus 4.5, an AI assistant by Anthropic.
 
 ## Table of contents
 
@@ -321,7 +321,7 @@ Additional features:
 |---------|----------------|
 | **Meta tags** | Title, description, keywords, canonical |
 | **Open Graph** | Full social media sharing support |
-| **Twitter Cards** | Twitter sharing optimization |
+| **Twitter cards** | Twitter sharing optimization |
 | **Schema.org** | JSON-LD structured data (Website, Breadcrumb list, Organization) |
 
 ### Security
@@ -345,11 +345,11 @@ The complete session log with all prompts, actions, and technical details is ava
 
 ## Tools used
 
-- **AI Assistant:** Claude Opus 4.5 (claude-opus-4-5-20251101) via Claude Code CLI
-- **Screenshot Capture:** Python + Playwright + Pillow
-- **Static Site Generator:** Jekyll (GitHub Pages)
-- **Version Control:** Git + GitHub
-- **Browser Automation:** Playwright (Chromium)
+- **AI assistant:** Claude Opus 4.5 (claude-opus-4-5-20251101) via Claude Code CLI
+- **Screenshot capture:** Python + Playwright + Pillow
+- **Static site generator:** Jekyll (GitHub Pages)
+- **Version control:** Git + GitHub
+- **Browser automation:** Playwright (Chromium)
 
 ---
 

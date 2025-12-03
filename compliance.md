@@ -152,7 +152,7 @@ JSON-LD structured data including:
 | **External links** | `rel="noopener"` on all external links |
 | **No inline scripts** | JavaScript in document body only |
 | **No external scripts** | No third-party JavaScript |
-| **Content Security** | Static content only, no user input |
+| **Content security** | Static content only, no user input |
 
 ### GitHub Pages security
 
@@ -208,11 +208,11 @@ Optimized print stylesheet including:
 
 | Tool | Purpose |
 |------|---------|
-| **W3C HTML Validator** | HTML5 validation |
+| **W3C HTML validator** | HTML5 validation |
 | **WAVE** | Accessibility testing |
 | **Lighthouse** | Performance, accessibility, SEO audit |
 | **axe DevTools** | Automated accessibility testing |
-| **Color Contrast Analyzer** | WCAG contrast verification |
+| **Color contrast analyzer** | WCAG contrast verification |
 
 ### Testing checklist
 

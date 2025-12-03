@@ -90,14 +90,14 @@ Some websites managed by the KB have been discontinued. To preserve their conten
 
 ## How this site was built
 
-This GitHub Pages site was created in a single intensive session (~7 hours) on December 2-3, 2025, through collaboration between a human curator at the KB and **Claude Opus 4.5**, an AI assistant.
+This GitHub Pages site was created in multiple intensive sessions (~10 hours) on December 2-3, 2025, through collaboration between a human curator at the KB and **Claude Opus 4.5**, an AI assistant.
 
 ### Development highlights
 
-1. **Repository Reorganization** - Transformed flat folder structure into clean hierarchy
-2. **Screenshot Galleries** - Captured 36 Wayback Machine screenshots using Python/Selenium
+1. **Repository reorganization** - Transformed flat folder structure into clean hierarchy
+2. **Screenshot galleries** - Captured 36 Wayback Machine screenshots using Python/Playwright
 3. **GitHub Pages** - Built responsive site with navigation, breadcrumbs, and lightbox
-4. **🎯 AI Vision Recognition** - Used multimodal AI to extract meaningful captions from screenshots
+4. **🎯 AI vision recognition** - Used multimodal AI to extract meaningful captions from screenshots
 
 ### The AI vision breakthrough
 
