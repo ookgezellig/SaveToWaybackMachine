@@ -11,8 +11,8 @@ from io import BytesIO
 # Screenshot to capture - replacing error page with a working page
 SCREENSHOTS = [
     {
-        # bibliothecarissen page - a working archived page
-        "url": "https://web.archive.org/web/20180706114620/https://www.lezenvoordelijst.nl/bibliothecarissen",
+        # Blog post about docenten lezen in de klas - a working archived page with content
+        "url": "https://web.archive.org/web/20180706115322/https://www.lezenvoordelijst.nl/blog/2012/docenten-lezen-in-de-klas/",
         "filename": "wbm_pagina_1296.png"  # Replacing the error page screenshot
     }
 ]
