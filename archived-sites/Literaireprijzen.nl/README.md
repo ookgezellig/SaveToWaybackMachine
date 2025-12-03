@@ -1,3 +1,14 @@
+---
+layout: default
+title: Literaireprijzen.nl
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: Literaireprijzen.nl
+---
+
+[← Back to Archived Sites](../)
+
 # Literaireprijzen.nl - Wayback Machine Archive
 
 *Archived: October-November 2018*

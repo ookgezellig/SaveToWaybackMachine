@@ -1,3 +1,16 @@
+---
+layout: default
+title: kb.nl - December 2021
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: kb.nl
+    url: /archived-sites/kb.nl/
+  - title: December 2021
+---
+
+[← Back to kb.nl](../)
+
 # kb.nl Archive - December 2021 (Old Site)
 
 *Archived: 24 December 2021*

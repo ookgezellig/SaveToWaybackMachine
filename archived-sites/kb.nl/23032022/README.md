@@ -1,3 +1,16 @@
+---
+layout: default
+title: kb.nl - March 2022
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: kb.nl
+    url: /archived-sites/kb.nl/
+  - title: March 2022
+---
+
+[← Back to kb.nl](../)
+
 # kb.nl Archive - March 2022 (New Site)
 
 *Archived: 23-24 March 2022*

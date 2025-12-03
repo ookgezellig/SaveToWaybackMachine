@@ -1,3 +1,16 @@
+---
+layout: default
+title: kb.nl - Sources
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: kb.nl
+    url: /archived-sites/kb.nl/
+  - title: Sources
+---
+
+[← Back to kb.nl](../)
+
 # kb.nl Sources - URL Collection Data
 
 *Created: November-December 2021*

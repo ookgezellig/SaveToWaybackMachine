@@ -1,3 +1,14 @@
+---
+layout: default
+title: Leesplein.nl
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: Leesplein.nl
+---
+
+[← Back to Archived Sites](../)
+
 # Leesplein - Wayback Machine Archive
 
 *Archived: June 2018*

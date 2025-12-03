@@ -1,3 +1,14 @@
+---
+layout: default
+title: Literatuurgeschiedenis.org
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: Literatuurgeschiedenis.org
+---
+
+[← Back to Archived Sites](../)
+
 # Literatuurgeschiedenis.org - Wayback Machine Archive
 
 *Archived: March 2022*

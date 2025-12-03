@@ -1,3 +1,14 @@
+---
+layout: default
+title: LezenVoorDeLijst.nl
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: LezenVoorDeLijst.nl
+---
+
+[← Back to Archived Sites](../)
+
 # LezenVoorDeLijst - Wayback Machine Archive
 
 *Archived: July-August 2018*

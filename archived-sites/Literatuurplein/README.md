@@ -1,3 +1,14 @@
+---
+layout: default
+title: Literatuurplein.nl
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: Literatuurplein.nl
+---
+
+[← Back to Archived Sites](../)
+
 # Saving Literatuurplein.nl to the Wayback Machine
 *Latest update: 03-12-2025*
 

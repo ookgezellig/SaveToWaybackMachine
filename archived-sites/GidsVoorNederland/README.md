@@ -1,3 +1,14 @@
+---
+layout: default
+title: GidsVoorNederland.nl
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: GidsVoorNederland.nl
+---
+
+[← Back to Archived Sites](../)
+
 # GidsVoorNederland - Wayback Machine Archive
 
 *Archived: November 2018*

@@ -1,3 +1,14 @@
+---
+layout: default
+title: kb.nl
+breadcrumb:
+  - title: Archived Sites
+    url: /archived-sites/
+  - title: kb.nl
+---
+
+[← Back to Archived Sites](../)
+
 # kb.nl - Wayback Machine Archive
 
 *Archived: December 2021 & March 2022*
