@@ -251,9 +251,60 @@ These are acceptable trade-offs for a documentation and archive reference site.
 
 ---
 
+## Image credits & copyrights
+
+This section clarifies the different licensing that applies to different types of content on this site.
+
+### What is CC0 (public domain)
+
+The following content is dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/):
+
+- **All source code** (Python scripts, HTML, CSS, JavaScript)
+- **All text content** (documentation, README files, this compliance page)
+- **Data files** (CSV, TXT files with URLs and metadata)
+
+### What is NOT public domain
+
+#### Wayback Machine screenshots
+
+The screenshots displayed in the gallery sections are captures of archived websites. These websites may contain copyrighted content owned by third parties. The screenshots are displayed here for:
+
+- **Documentary purposes** - Demonstrating the archiving work performed
+- **Cultural heritage preservation** - Showcasing Dutch digital heritage
+- **Educational purposes** - Illustrating web archiving practices
+
+**Copyright notice:** If any rights holder believes their copyright is infringed by the display of these screenshots, please [file a GitHub Issue](https://github.com/ookgezellig/SaveToWaybackMachine/issues) and the KB will remove the images as soon as possible.
+
+#### KB logo
+
+The KB (Koninklijke Bibliotheek) logo is licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
+
+- **Source**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Logo_koninklijke_bibliotheek.svg)
+- **Attribution**: KB, national library of the Netherlands
+
+#### Social media brand icons
+
+The social media icons (Bluesky, Mastodon, LinkedIn, YouTube, Instagram, Facebook, GitHub) are:
+
+- **Icon designs**: Based on [Simple Icons](https://simpleicons.org/) (CC0 licensed)
+- **Brand trademarks**: The brand names and logos are registered trademarks of their respective companies. They are used here solely to link to the KB's official social media presence.
+
+### Summary
+
+| Content type | License |
+|--------------|---------|
+| Source code | CC0 1.0 (Public Domain) |
+| Text & documentation | CC0 1.0 (Public Domain) |
+| Data files | CC0 1.0 (Public Domain) |
+| Wayback Machine screenshots | Third-party copyrights apply |
+| KB logo | CC BY-SA 3.0 |
+| Social media icons | Trademarks of respective companies |
+
+---
+
 ## Contact
 
-For accessibility issues or compliance questions, please contact:
+For accessibility issues, compliance questions, or **copyright concerns**, please contact:
 
 - **Organization**: KB, national library of the Netherlands
 - **Website**: [www.kb.nl](https://www.kb.nl)

@@ -118,4 +118,4 @@ Generic captions like "Pagina 104937" and "Boek 277" were transformed into meani
 
 ## License
 
-This project is dedicated to the public domain under [CC0 1.0](LICENSE).
+The source code and text content of this project are dedicated to the public domain under [CC0 1.0](LICENSE). For image credits and copyright information, see [compliance](compliance#image-credits--copyrights).

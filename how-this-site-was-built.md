@@ -281,4 +281,4 @@ The complete session log with all prompts, actions, and technical details is ava
 
 ## License
 
-This documentation and the entire project are dedicated to the public domain under [CC0 1.0](LICENSE).
+The source code and text content of this project are dedicated to the public domain under [CC0 1.0](LICENSE). For image credits and copyright information, see [compliance](compliance#image-credits--copyrights).

@@ -78,4 +78,11 @@ The companion website meets European standards:
 
 ## License
 
-This project is dedicated to the public domain under [CC0 1.0](LICENSE).
+The **source code** and **text content** of this project are dedicated to the public domain under [CC0 1.0](LICENSE).
+
+**Note:** This license does not apply to:
+- Wayback Machine screenshots (third-party copyrights)
+- KB logo (CC BY-SA 3.0)
+- Social media brand icons (respective trademarks)
+
+See [Image credits & copyrights](https://ookgezellig.github.io/SaveToWaybackMachine/compliance#image-credits--copyrights) for details.
