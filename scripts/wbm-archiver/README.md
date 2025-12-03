@@ -50,7 +50,3 @@ The script will prompt you for:
 2. Operation mode (save/retrieve latest/retrieve oldest)
 3. Output file for results
 
-## Alternative
-
-If you prefer not to run Python scripts, use the Google Sheets method:
-- [archive.org/services/wayback-gsheets/](https://archive.org/services/wayback-gsheets/)

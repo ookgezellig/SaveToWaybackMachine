@@ -73,13 +73,6 @@ Some websites managed by the KB have been discontinued. To preserve their conten
 
 ---
 
-## Alternative: Google Sheets method
-
-Archive pages without running Python scripts:
-- [archive.org/services/wayback-gsheets/](https://archive.org/services/wayback-gsheets/)
-
----
-
 ## Quick reference
 
 | Site | Archive Date | URLs |

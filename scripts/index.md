@@ -18,9 +18,3 @@ Python tools for archiving websites to the Wayback Machine.
   </a>
 </div>
 
----
-
-## Alternative Methods
-
-If you prefer not to run Python scripts:
-- [Archive.org Google Sheets integration](https://archive.org/services/wayback-gsheets/)
