@@ -27,10 +27,10 @@ This GitHub Pages site was created in multiple intensive sessions on December 2-
 | Phase | Date | Time | Duration | Commits |
 |-------|------|------|----------|---------|
 | Repository reorganization | Dec 2 | 17:02 - 19:52 | 2h 50m | 3 |
-| Screenshot galleries | Dec 3 | 00:28 - 02:34 | 2h 06m | 5 |
-| GitHub Pages setup | Dec 3 | 02:34 - 03:14 | 40m | 4 |
-| UI refinements | Dec 3 | 03:14 - 04:00 | 46m | 6 |
-| Bug fixes & polish | Dec 3 | 04:00 - 04:48 | 48m | 5 |
+| Screenshot galleries | Dec 2 | (session 1) | 2h 06m | 5 |
+| GitHub Pages setup | Dec 2 | (session 1) | 40m | 4 |
+| UI refinements | Dec 2 | (session 1) | 46m | 6 |
+| Bug fixes & polish | Dec 2 | (session 1) | 48m | 5 |
 | KB huisstijl & compliance | Dec 3 | (session 2) | ~2h | 6 |
 | Code organization & footer | Dec 3 | (session 2) | ~1h | 4 |
 | **Total** | | | **~10 hours** | **33 commits** |
