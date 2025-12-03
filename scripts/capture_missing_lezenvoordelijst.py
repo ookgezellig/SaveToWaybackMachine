@@ -11,30 +11,23 @@ from io import BytesIO
 # Screenshot to capture - replacing error page with a working page
 SCREENSHOTS = [
     {
-        # Blog post about docenten lezen in de klas - a working archived page with content
-        "url": "https://web.archive.org/web/20180706115322/https://www.lezenvoordelijst.nl/blog/2012/docenten-lezen-in-de-klas/",
+        # De leesniveaus page - main section page with proper WBM banner
+        "url": "https://web.archive.org/web/20180706125126/https://www.lezenvoordelijst.nl/de-leesniveaus",
         "filename": "wbm_pagina_1296.png"  # Replacing the error page screenshot
     }
 ]
 
 OUTPUT_DIR = "archived-sites/LezenVoorDeLijst/images"
-BANNER_HEIGHT = 210  # WBM donation banner height to trim
 
 def capture_screenshot(driver, url, output_path):
-    """Capture screenshot and trim donation banner."""
+    """Capture screenshot keeping the WBM banner visible."""
     print(f"Capturing: {url}")
     driver.get(url)
     time.sleep(5)  # Wait for page to load
 
-    # Take screenshot
+    # Take screenshot - keep full page with WBM banner
     screenshot = driver.get_screenshot_as_png()
     img = Image.open(BytesIO(screenshot))
-
-    # Trim donation banner from top
-    width, height = img.size
-    if height > BANNER_HEIGHT:
-        img = img.crop((0, BANNER_HEIGHT, width, height))
-
     img.save(output_path)
     print(f"Saved: {output_path}")
 

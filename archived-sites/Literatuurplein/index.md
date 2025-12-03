@@ -16,12 +16,12 @@ breadcrumb:
 
 ## Wayback Machine Screenshots
 
-| Homepage | Auteur: Thea Beckman | Prijzen Overzicht |
-|:--------:|:--------------------:|:-----------------:|
+| Homepage | Thea Beckman | Literaire prijzen |
+|:--------:|:------------:|:-----------------:|
 | <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_auteur_thea_beckman.png" width="280"/> | <img src="images/wbm_prijzen_overzicht.png" width="280"/> |
 
-| Canon Overzicht | Nieuws Archief | Recensies |
-|:---------------:|:--------------:|:---------:|
+| Canon van de Nederlandse geschiedenis | Archief Nieuwsberichten | Recensies |
+|:-------------------------------------:|:-----------------------:|:---------:|
 | <img src="images/wbm_canon_overzicht.png" width="280"/> | <img src="images/wbm_nieuws_archief.png" width="280"/> | <img src="images/wbm_recensies.png" width="280"/> |
 
 ## About

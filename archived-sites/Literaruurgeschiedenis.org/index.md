@@ -27,7 +27,7 @@ breadcrumb:
 
 ## About
 
-This folder contains URLs archived from [literatuurgeschiedenis.org](https://www.literatuurgeschiedenis.org/), a Dutch website about the history of Dutch literature, covering various literary periods and authors.
+This folder contains URLs archived from [literatuurgeschiedenis.org](https://www.literatuurgeschiedenis.org/), a former Dutch website about the history of Dutch literature, covering various literary periods and authors.
 
 ## Contents
 

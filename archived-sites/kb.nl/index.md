@@ -21,13 +21,26 @@ The KB website was relaunched on 17 March 2022. On the same day, a dedicated [KB
 
 ## Screenshots
 
-| Old kb.nl (Dec 2021) | New kb.nl (Mar 2022) | Collecties.kb.nl (Mar 2022) |
-|:--------------------:|:--------------------:|:---------------------------:|
-| <img src="24122021/images/kbnl_homepage_28122021.png" width="280"/> | <img src="23032022/images/kbnl_homepage_23032022.png" width="280"/> | <img src="23032022/images/collectieskbnl_homepage_23032022.png" width="280"/> |
+### Old kb.nl (December 2021)
+Screenshots from the old KB website, archived before the relaunch.
 
-| Old kb.nl Theme page | New kb.nl Topstuk | Collecties Poetry |
-|:--------------------:|:-----------------:|:-----------------:|
-| <img src="24122021/images/kbnl_themepage_28122021.png" width="280"/> | <img src="23032022/images/kbnl_topstukpage_23032022.png" width="280"/> | <img src="23032022/images/collectieskbnl_nlpoeziepage_23032022.png" width="280"/> |
+| Homepage | Theme page |
+|:--------:|:----------:|
+| <img src="24122021/images/kbnl_homepage_28122021.png" width="400"/> | <img src="24122021/images/kbnl_themepage_28122021.png" width="400"/> |
+
+### New kb.nl (March 2022)
+Screenshots from the new KB website, archived shortly after the relaunch.
+
+| Homepage | Topstuk page |
+|:--------:|:------------:|
+| <img src="23032022/images/kbnl_homepage_23032022.png" width="400"/> | <img src="23032022/images/kbnl_topstukpage_23032022.png" width="400"/> |
+
+### Collecties.kb.nl (March 2022)
+Screenshots from the new KB special collections website.
+
+| Homepage | Nederlandse Poëzie |
+|:--------:|:------------------:|
+| <img src="23032022/images/collectieskbnl_homepage_23032022.png" width="400"/> | <img src="23032022/images/collectieskbnl_nlpoeziepage_23032022.png" width="400"/> |
 
 ## Contents
 

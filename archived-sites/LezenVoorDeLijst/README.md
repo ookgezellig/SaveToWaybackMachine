@@ -15,17 +15,17 @@ breadcrumb:
 
 ## Wayback Machine Screenshots
 
-| Homepage | Pagina 104937 | Docenten Blog |
-|:--------:|:-------------:|:-------------:|
+| Homepage | Training verplaatst | De leesniveaus |
+|:--------:|:-------------------:|:--------------:|
 | <img src="images/wbm_homepage.png" width="280"/> | <img src="images/wbm_pagina_104937.png" width="280"/> | <img src="images/wbm_pagina_1296.png" width="280"/> |
 
-| Pagina 154224 | Pagina 168938 | Pagina 50393 |
-|:-------------:|:-------------:|:------------:|
+| De man die alles achterliet | Opdracht N2 | Foarstelling (Fries) |
+|:---------------------------:|:-----------:|:--------------------:|
 | <img src="images/wbm_pagina_154224.png" width="280"/> | <img src="images/wbm_pagina_168938.png" width="280"/> | <img src="images/wbm_pagina_50393.png" width="280"/> |
 
 ## About
 
-This folder contains URLs archived from [lezenvoordelijst.nl](https://www.lezenvoordelijst.nl/), a Dutch website that helped students find books for their required reading lists (the "leeslijst" for secondary education).
+This folder contains URLs archived from [lezenvoordelijst.nl](https://www.lezenvoordelijst.nl/), a former Dutch website that helped students find books for their required reading lists (the "leeslijst" for secondary education).
 
 ## Contents
 

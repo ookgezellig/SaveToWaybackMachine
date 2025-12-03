@@ -25,7 +25,7 @@ breadcrumb:
 
 ## About
 
-This folder contains URLs archived from [literaireprijzen.nl](https://www.literaireprijzen.nl/), a Dutch website providing information about literary prizes and awards in the Netherlands and Flanders.
+This folder contains URLs archived from [literaireprijzen.nl](https://www.literaireprijzen.nl/), a former Dutch website providing information about literary prizes and awards in the Netherlands and Flanders.
 
 ## Contents
 
