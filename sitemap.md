@@ -15,6 +15,7 @@ Complete overview of all pages on this site.
 
 - [🏠 Home](./index.md) - Main landing page
 - [📖 How This Site Was Built](./how-this-site-was-built.md) - Development story and timeline
+- [♿ Accessibility & Compliance](./compliance.md) - GDPR, WCAG 2.1, SEO documentation
 - [🗺️ Sitemap](./sitemap.md) - This page
 
 ---

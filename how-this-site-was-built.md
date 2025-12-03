@@ -17,6 +17,7 @@ This GitHub Pages site was created in a single intensive session on December 2-3
 - [Development Phases](#development-phases)
 - [Time Investment](#time-investment)
 - [Major Achievement: AI Vision Recognition](#major-achievement-ai-vision-recognition)
+- [Compliance & Accessibility](#compliance--accessibility)
 - [Full Session Log](#full-session-log)
 
 ---
@@ -196,6 +197,67 @@ This demonstrates AI can:
 - **Extract structured metadata** from screenshot archives
 - **Improve accessibility** through automatic alt-text generation
 - **Scale to large archives** without human review of each image
+
+---
+
+## Compliance & Accessibility
+
+As a final phase, comprehensive compliance testing and improvements were implemented to ensure the site meets European standards.
+
+### GDPR/AVG Compliance
+
+| Aspect | Status |
+|--------|--------|
+| **Cookies** | None used |
+| **Analytics** | No tracking |
+| **Personal data** | None collected |
+| **Third-party services** | None embedded |
+
+### WCAG 2.1 Level AA
+
+| Feature | Implementation |
+|---------|----------------|
+| **Skip link** | "Skip to main content" for screen readers |
+| **Keyboard navigation** | Full keyboard support throughout |
+| **Focus indicators** | 3px blue outline on all focusable elements |
+| **Color contrast** | Minimum 4.5:1 ratio (WCAG AA) |
+| **ARIA labels** | All interactive elements labeled |
+| **Focus trapping** | Modal dialogs trap focus correctly |
+| **Reduced motion** | Respects `prefers-reduced-motion` |
+
+### Responsive Design
+
+| Breakpoint | Target |
+|------------|--------|
+| > 768px | Desktop |
+| 601-768px | Tablet |
+| 401-600px | Mobile |
+| ≤ 400px | Small mobile |
+
+Additional features:
+- **Landscape orientation** optimization for lightbox
+- **Touch swipe** navigation in image galleries
+- **Dark mode** support via `prefers-color-scheme`
+- **High contrast** mode support via `prefers-contrast`
+- **Print styles** for clean printed output
+
+### SEO Optimization
+
+| Feature | Implementation |
+|---------|----------------|
+| **Meta tags** | Title, description, keywords, canonical |
+| **Open Graph** | Full social media sharing support |
+| **Twitter Cards** | Twitter sharing optimization |
+| **Schema.org** | JSON-LD structured data (WebSite, BreadcrumbList, Organization) |
+
+### Security
+
+- **HTTPS enforced** via GitHub Pages
+- **`rel="noopener"`** on all external links
+- **No external scripts** - all JavaScript inline
+- **Static content only** - no server-side processing
+
+📄 **[Full Compliance Documentation →](compliance.md)**
 
 ---
 
