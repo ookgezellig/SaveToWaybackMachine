@@ -200,7 +200,7 @@ Claude Opus 4.5 used its native vision capabilities to:
 
 ### Results
 
-| Site | Old Caption | New Caption (from vision) |
+| Site | Old caption | New caption (from vision) |
 |------|-------------|---------------------------|
 | LezenVoorDeLijst | Pagina 104937 | Training verplaatst |
 | LezenVoorDeLijst | Pagina 154224 | De man die alles achterliet |
