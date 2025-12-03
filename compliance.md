@@ -293,8 +293,8 @@ The social media icons (Bluesky, Mastodon, LinkedIn, YouTube, Instagram, Faceboo
 | Source code | CC0 1.0 (Public Domain) |
 | Text & documentation | CC0 1.0 (Public Domain) |
 | Data files | CC0 1.0 (Public Domain) |
-| Wayback Machine screenshots | Third-party copyrights apply |
-| KB logo | CC BY-SA 3.0 |
+| Wayback Machine screenshots | Third-party copyrights might apply |
+| [KB logo](https://nl.wikimedia.org/wiki/Bestand:Logo_koninklijke_bibliotheek.svg) | CC BY-SA 3.0 |
 | Social media brand icons | Trademarks of respective companies |
 
 ---
